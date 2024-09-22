@@ -6,3 +6,4 @@ plotly
 scikit-learn
 requests
 streamlit-lottie
+category_encoders
