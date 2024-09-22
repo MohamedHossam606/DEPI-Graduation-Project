@@ -216,7 +216,7 @@ else:
 
     @st.cache_resource
     def load_model():
-        return joblib.load('Notebooks\Saved Models\Q3 tranied pipeline_model.pkl')
+        return joblib.load('Notebooks/Saved Models/Q3 tranied pipeline_model.pkl')
 
     model_pipeline = load_model()
 
