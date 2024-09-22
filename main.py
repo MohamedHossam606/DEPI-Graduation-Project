@@ -10,11 +10,11 @@ from sklearn.metrics import roc_curve
 import requests
 from streamlit_lottie import st_lottie
 
-Transactions_df = pd.read_csv("Notebooks\Preprocessing Notebooks\Final Sheets\Transactions.csv")
+Transactions_df = pd.read_csv("Notebooks/Preprocessing Notebooks/Final Sheets/Transactions.csv")
 
-Q3_2017_Prediction = pd.read_csv("Notebooks\Preprocessing Notebooks\Final Sheets\Q2_features 2017 Q3 Purchases Prediction.csv")
-Q4_2017_Prediction = pd.read_csv("Notebooks\Preprocessing Notebooks\Final Sheets\Q3_features 2017 Q4 Purchases Prediction.csv")
-Q1_2018_Prediction = pd.read_csv("Notebooks\Preprocessing Notebooks\Final Sheets\Q4_features 2018 Q1 Purchases Prediction.csv")
+Q3_2017_Prediction = pd.read_csv("Notebooks/Preprocessing Notebooks/Final Sheets/Q2_features 2017 Q3 Purchases Prediction.csv")
+Q4_2017_Prediction = pd.read_csv("Notebooks/Preprocessing Notebooks/Final Sheets/Q3_features 2017 Q4 Purchases Prediction.csv")
+Q1_2018_Prediction = pd.read_csv("Notebooks/Preprocessing Notebooks/Final Sheets/Q4_features 2018 Q1 Purchases Prediction.csv")
 
 # Set page config
 st.set_page_config(page_title="Purchases Prediction",initial_sidebar_state='expanded')
