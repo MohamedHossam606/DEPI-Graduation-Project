@@ -115,6 +115,7 @@ else:
     accuracy = 76
 
 
+
 # Display prediction accuracy gauge chart
 st.write("### Model Prediction Accuracy")
 st.write("This gauge shows the model's prediction accuracy for the selected quarter. A higher value indicates better predictive performance.")
@@ -125,17 +126,15 @@ fig0 = go.Figure(go.Indicator(
     title={'text': "Prediction Accuracy"},
     gauge={
         'axis': {'range': [0, 100]},
-        'bar': {'color': "#606C38"}
-        # ,
-        # 'steps': [
-        #     {'range': [0, 50], 'color': "#FEFAE0"},
-        #     {'range': [50, 80], 'color': "#283618"},
-        #     {'range': [80, 100], 'color': "#DDA15E"}],
-        # 'threshold': {
-        #     'line': {'color': "red", 'width': 4},
-        #     'thickness': 0.75,
-        #     'value': 77}
-    }))
+        'bar': {'color': "#606C38"},
+        'steps': [
+            {'range': [0, 50], 'color': "#FEFAE0"},
+            {'range': [50, 80], 'color': "#283618"},
+            {'range': [80, 100], 'color': "#DDA15E"}],
+        'threshold': {
+            'line': {'color': "red", 'width': 4},
+            'thickness': 0.75,
+            'value': 77}}))
 st.plotly_chart(fig0)
 st.divider()
 
@@ -149,12 +148,12 @@ fig1 = px.histogram(selected_df,
                     labels={'spend_next_90_days_pred_proba': 'Predicted Probability (%)'},
                     color_discrete_sequence=[colors[0]])
 fig1.update_layout(bargap=0.1, xaxis_title="Probability (%)", yaxis_title="Count")
-# fig1.update_layout(
-#     plot_bgcolor=colors[2],
-#     title_font=dict(size=20, color=colors[0]),
-#     xaxis_title_font=dict(size=16, color=colors[0]),
-#     yaxis_title_font=dict(size=16, color=colors[0])
-# )
+fig1.update_layout(
+    plot_bgcolor=colors[2],
+    title_font=dict(size=20, color=colors[0]),
+    xaxis_title_font=dict(size=16, color=colors[0]),
+    yaxis_title_font=dict(size=16, color=colors[0])
+)
 st.plotly_chart(fig1)
 st.divider()
 
@@ -167,6 +166,16 @@ fig2 = px.pie(selected_df,
               labels={'spend_next_90_days_pred': 'Predicted Spending'},
               color_discrete_sequence=colors[:2])
 st.plotly_chart(fig2)
+
+col1, col2 = st.columns(2)
+# Calculate the total number of customers who Will Spend and Will Not Spend
+will_spend_count = selected_df[selected_df['spend_next_90_days_pred'] == 1].shape[0]
+will_not_spend_count = selected_df[selected_df['spend_next_90_days_pred'] == 0].shape[0]
+# Display metrics in a modern way
+with col1:
+    st.metric("Total Customers Who Will Spend", will_spend_count)
+with col2:
+    st.metric("Total Customers Who Will Not Spend", will_not_spend_count)
 st.divider()
 
 # Bar charts of state and wealth segment
@@ -175,7 +184,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.write("### Predicted Spend Probability by State")
     st.write("This bar chart shows the average predicted spend probability by state. It helps identify geographical regions with high or low expected spending.")
-    fig3 = px.bar(Q3_2017_Prediction, 
+    fig3 = px.bar(selected_df, 
                   x='state', 
                   y='spend_next_90_days_pred_proba', 
                   title='Predicted Spend Probability by State',
@@ -186,7 +195,7 @@ with col1:
 with col2:
     st.write("### Predicted Spend Probability by Wealth Segment")
     st.write("This bar chart shows the average predicted spend probability by customer wealth segment. It highlights which wealth segments are more likely to spend.")
-    fig4 = px.bar(Q3_2017_Prediction, 
+    fig4 = px.bar(selected_df, 
                   x='wealth_segment', 
                   y='spend_next_90_days_pred_proba', 
                   title='Predicted Spend Probability by Wealth Segment',
@@ -235,7 +244,7 @@ else:
 
     @st.cache_resource
     def load_model():
-        return joblib.load('Notebooks/Saved Models/Q3 tranied pipeline_model.pkl')
+        return joblib.load('Notebooks\Saved Models\Q3 tranied pipeline_model.pkl')
 
     model_pipeline = load_model()
 
@@ -284,3 +293,25 @@ else:
             st.success(f"Prediction: This customer is likely to spend within the next 90 days with a probability of {prediction_proba[0] * 100:.1f}%.")
         else:
             st.warning(f"Prediction: This customer is unlikely to spend within the next 90 days with a probability of {prediction_proba[0] * 100:.1f}%.")
+    st.divider()
+
+st.write("#### Output Dataset")
+with st.expander("Show Full Customers Prediction Dataset"):
+    # Filters for spending prediction and state
+    spend_filter = st.multiselect(
+        "Filter by Spending Prediction",
+        options=[1, 0],
+        default=[1, 0],
+        format_func=lambda x: 'Will Spend' if x == 1 else 'Will Not Spend')
+
+    state_filter = st.multiselect(
+        "Filter by State",
+        options=selected_df['state'].unique(),
+        default=selected_df['state'].unique())
+    # Apply filters to the dataset
+    filtered_df = selected_df[
+        (selected_df['spend_next_90_days_pred'].isin(spend_filter)) &
+        (selected_df['state'].isin(state_filter))]
+
+    st.dataframe(filtered_df)
+    st.write(f"##### Number of customers = **{len(filtered_df)}**")
