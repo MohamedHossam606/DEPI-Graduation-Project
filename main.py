@@ -42,35 +42,47 @@ tab1,tab2 = st.tabs(["Purchases Prediction", "Process"])
 with tab1:
     st.markdown('''
     #### **Objectives:**
-    ##### **Predict Customer Spending Behavior:**
-    * Develop a model to predict whether a customer will make a purchase within the next 90 days based on their historical transaction data and customer demographics.
+    ##### **Customer Purchase Prediction:**
+    * The primary objective is to predict whether a customer will make a purchase in the next 90 days based on their transaction history and customer attributes.
     * Help the business prioritize customer retention and marketing efforts.
                 
-    ##### **Enhance Customer Retention:**
-    * Identify at-risk customers who are unlikely to make a purchase in the near future.
+    ##### **Customer Segmentation:**
+    * Use the model to segment customers into those who are likely to make a purchase and those who are not, helping to create more focused marketing efforts.
     
-    ##### **Optimize Marketing and Resource Allocation:**
-    * Use the model’s predictions to focus marketing resources on high-probability spenders for personalized promotions.
+    #### **How the Model Could Be Used:**
+    ##### **Marketing Campaigns:**
+    * The prediction of a customer's likelihood to purchase can be used to design tailored marketing campaigns (e.g., promotional offers for customers with a low probability of purchase).
+    
+    ##### **Revenue Forecasting:**
+    * : The model helps in forecasting potential revenue from recurring customers in the next quarter by identifying high-value customers likely to make large purchases.
+    
+    ##### **Inventory Management:**
+    * By forecasting demand, the store can optimize stock levels based on the expected number of customers making purchases in the next quarter.
+   
     ''')
 
 with tab2:
     st.markdown('''
     #### **Process:**
-    ##### **1. Data Collection & Preprocessing:**
-    * **Data Sources:** Collect transaction data (online and offline purchases), customer demographic information, and behavioral attributes.
-    * **Cleaning:** Remove irrelevant records (e.g., canceled orders, deceased customers) and handle missing values (e.g., filling job titles, removing unnecessary columns).
+    ##### **1. Data Preprocessing:**
+    * **Cleaning:** Merged customer and transaction datasets and cleaned the data by removing unnecessary columns (e.g., deceased customers and cancelled orders) & Dealt with missing values.
     * **Feature Engineering:** Generate features such as total spend, transaction frequency, recency of purchases, and customer demographics (e.g., age, job industry, wealth segment).
     * **Handling Outliers:** Remove outliers from numerical columns to prevent skewing the model’s performance.
     
+    ##### **1. Data Splitting:**
+    * Split the transaction data into quarters to simulate a time-based holdout set, ensuring that your model predicts future behavior rather than learning from future data.
+    
+    * For Example: **Q3 Data (Training Set):** used transactions from Q3 (July–September). 2017 to generate the training features and the target variable. The target here is whether the customer made a purchase in Q4 (October–December). 
+    * **Q4 Data (Testing Set):** used transactions from Q4 2017 to generate the test features, and the target was whether the customer made a purchase in Q1 2018
+    
     ##### **2. Model Training:**
     * **Binary Classification:** Train a model to predict whether a customer will make a purchase within the next 90 days (binary target).
-    * **Data Splitting:** Split the dataset into training and testing sets by grouping the transactions into quarterly datasets (Q1, Q2, Q3).
-    * **Preprocessing:** Apply scaling to numerical features and one-hot encoding to categorical features to prepare the data for machine learning algorithms.
-    * **Model Selection:** Use Random Forest as the primary classification model, fine-tuning hyperparameters through grid search and cross-validation.
-    * **Prediction: Generate** predicted probabilities for the next 90-day spending likelihood.
+    * **Preprocessing Pipeline:** Used RobustScaler for scaling numerical features and OneHotEncoder for encoding categorical features, Combined them into a single preprocessing pipeline using ColumnTransformer. 
+    * **Model Selection:** Trained several models with hyperparameter tuning using GridSearchCV and evaluating performance using cross-validation, including:(Logistic Regression, Random Forest, Support Vector Machine)
     
     ##### **3. Model Evaluation:**
-    * **Metrics:** Evaluate model performance using accuracy, ROC-AUC, and precision-recall metrics to assess the effectiveness of predicting customer spending.
+    * **Metrics:** Evaluate model performance using accuracy, confusion matrix, and classification report to understand its precision, recall, and F1-score.
+    * **Best Mode:** Random Forest was chosen as the final model based on performance AVG. accuracy = 76%.
     ''')
 
     if st.button('Show Transactions Sample Data') :
