@@ -96,7 +96,8 @@ quarter_files = {
     '2018 Q1 Prediction': Q1_2018_Prediction
 }
 
-selected = st.selectbox('Select Quarter Prediction to filter by:', list(quarter_files.keys()), index=2)
+st.write("### Select Quarter Prediction to filter by")
+selected = st.selectbox(list(quarter_files.keys()), index=2)
 selected_df = quarter_files[selected]
 
 # Define the color palette
