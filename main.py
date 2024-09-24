@@ -54,7 +54,7 @@ with tab1:
     * The prediction of a customer's likelihood to purchase can be used to design tailored marketing campaigns (e.g., promotional offers for customers with a low probability of purchase).
     
     ##### **Revenue Forecasting:**
-    * The model helps in forecasting potential revenue from recurring customers in the next quarter by identifying high-value customers likely to make large purchases.
+    * : The model helps in forecasting potential revenue from recurring customers in the next quarter by identifying high-value customers likely to make large purchases.
     
     ##### **Inventory Management:**
     * By forecasting demand, the store can optimize stock levels based on the expected number of customers making purchases in the next quarter.
@@ -71,7 +71,11 @@ with tab2:
     
     ##### **1. Data Splitting:**
     * Split the transaction data into quarters to simulate a time-based holdout set, ensuring that your model predicts future behavior rather than learning from future data.
-    
+    ''')
+
+    st.image("./images/year-quarters.png")
+
+    st.markdown('''
     * For Example: **Q3 Data (Training Set):** used transactions from Q3 (July–September). 2017 to generate the training features and the target variable. The target here is whether the customer made a purchase in Q4 (October–December). 
     * **Q4 Data (Testing Set):** used transactions from Q4 2017 to generate the test features, and the target was whether the customer made a purchase in Q1 2018
     
@@ -83,7 +87,7 @@ with tab2:
     ##### **3. Model Evaluation:**
     * **Metrics:** Evaluate model performance using accuracy, confusion matrix, and classification report to understand its precision, recall, and F1-score.
     * **Best Mode:** Random Forest was chosen as the final model based on performance AVG. accuracy = 76%.
-    ''')
+''')
 
     if st.button('Show Transactions Sample Data') :
         st.dataframe(Transactions_df.sample(10),use_container_width=True)
