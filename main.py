@@ -54,7 +54,7 @@ with tab1:
     * The prediction of a customer's likelihood to purchase can be used to design tailored marketing campaigns (e.g., promotional offers for customers with a low probability of purchase).
     
     ##### **Revenue Forecasting:**
-    * : The model helps in forecasting potential revenue from recurring customers in the next quarter by identifying high-value customers likely to make large purchases.
+    * The model helps in forecasting potential revenue from recurring customers in the next quarter by identifying high-value customers likely to make large purchases.
     
     ##### **Inventory Management:**
     * By forecasting demand, the store can optimize stock levels based on the expected number of customers making purchases in the next quarter.
