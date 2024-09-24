@@ -148,12 +148,12 @@ fig1 = px.histogram(selected_df,
                     labels={'spend_next_90_days_pred_proba': 'Predicted Probability (%)'},
                     color_discrete_sequence=[colors[0]])
 fig1.update_layout(bargap=0.1, xaxis_title="Probability (%)", yaxis_title="Count")
-fig1.update_layout(
-    plot_bgcolor=colors[2],
-    title_font=dict(size=20, color=colors[0]),
-    xaxis_title_font=dict(size=16, color=colors[0]),
-    yaxis_title_font=dict(size=16, color=colors[0])
-)
+# fig1.update_layout(
+#     plot_bgcolor=colors[2],
+#     title_font=dict(size=20, color=colors[0]),
+#     xaxis_title_font=dict(size=16, color=colors[0]),
+#     yaxis_title_font=dict(size=16, color=colors[0])
+# )
 st.plotly_chart(fig1)
 st.divider()
 
@@ -244,7 +244,7 @@ else:
 
     @st.cache_resource
     def load_model():
-        return joblib.load('Notebooks\Saved Models\Q3 tranied pipeline_model.pkl')
+        return joblib.load('Notebooks/Saved Models/Q3 tranied pipeline_model.pkl')
 
     model_pipeline = load_model()
 
