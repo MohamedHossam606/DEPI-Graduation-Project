@@ -127,14 +127,15 @@ fig0 = go.Figure(go.Indicator(
     gauge={
         'axis': {'range': [0, 100]},
         'bar': {'color': "#606C38"},
-        'steps': [
-            {'range': [0, 50], 'color': "#FEFAE0"},
-            {'range': [50, 80], 'color': "#283618"},
-            {'range': [80, 100], 'color': "#DDA15E"}],
+        # 'steps': [
+        #     {'range': [0, 50], 'color': "#FEFAE0"},
+        #     {'range': [50, 80], 'color': "#283618"},
+        #     {'range': [80, 100], 'color': "#DDA15E"}],
         'threshold': {
             'line': {'color': "red", 'width': 4},
             'thickness': 0.75,
-            'value': 77}}))
+            'value': 77}
+    }))
 st.plotly_chart(fig0)
 st.divider()
 
