@@ -155,12 +155,11 @@ with tab2:
         }}
         h4 {{
             margin: 0; /* Remove any default margin */
-            color: white; /* White text */
             text-align: center; /* Center the text */
         }}
     </style>
     <a href="https://github.com/MohamedHossam606/DEPI-Graduation-Project/tree/main/Notebooks/Preprocessing%20Notebooks" target="_blank" class="hover-div">
-        <h4>View Full Data Preparation Notebooks</h4>
+        <h4 style="color: white;">View Full Data Preparation Notebooks</h4>
     </a>""", unsafe_allow_html=True)
 st.divider()
 
@@ -247,23 +246,52 @@ st.markdown(f"""
         }}
         h4 {{
             margin: 0; /* Remove any default margin */
-            color: white; /* White text */
             text-align: center; /* Center the text */
         }}
     </style>
     <a href="https://app.powerbi.com/links/sgzZ23FXw_?ctid=878ae732-59c5-40e3-8d49-91e7988bccfd&pbi_source=linkShare" target="_blank" class="hover-div">
-        <h4>View Dashboard</h4>
+        <h4 style="color: white;">View Dashboard</h4>
     </a>""", unsafe_allow_html=True)
 
 # Load the Lottie animation from the URL
-def load_lottieurl(url: str):
-    r = requests.get(url)
-    if r.status_code != 200:
-        return None
-    return r.json()
+# def load_lottieurl(url: str):
+#     r = requests.get(url)
+#     if r.status_code != 200:
+#         return None
+#     return r.json()
 
-animation = load_lottieurl('https://lottie.host/af744217-f85d-455c-8dd5-0c8bd672c6a8/CajIat0YS0.json')
-if animation is not None:
-    st_lottie(animation, speed=0.80, quality='high',  height=200)
-else:
-    st.error("Animation failed to load.")
+# animation = load_lottieurl('https://lottie.host/af744217-f85d-455c-8dd5-0c8bd672c6a8/CajIat0YS0.json')
+# if animation is not None:
+#     st_lottie(animation, speed=0.80, quality='high',  height=200)
+# else:
+#     st.error("Animation failed to load.")
+
+st.divider()
+
+st.write('## **Presentation**')
+st.markdown(f"""
+    <style>
+        .hover-div {{
+            padding: 10px;
+            border-radius: 10px;
+            background-color: #2c413c;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: center;  /* Centers horizontally */
+            align-items: center;  /* Centers vertically */
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;  /* Makes the div look clickable */
+            text-decoration: none;  /* Remove underline from the text */
+        }}
+        .hover-div:hover {{
+            background-color: #1e7460; /* Slightly lighter background color on hover */
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2); /* Adds a shadow on hover */
+        }}
+        h4 {{
+            margin: 0; /* Remove any default margin */
+            text-align: center; /* Center the text */
+        }}
+    </style>
+    <a href="https://drive.google.com/drive/folders/1TL_3geXkXLWuHkv0V8MHhyG0jTeUY3c_?usp=sharing" target="_blank" class="hover-div">
+        <h4 style="color: white;">View Our Presentation</h4>
+    </a>""", unsafe_allow_html=True)
