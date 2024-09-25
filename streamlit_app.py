@@ -8,7 +8,6 @@ All_Customers_Address_df = pd.read_csv("Notebooks/Preprocessing Notebooks/Final 
 Transactions_df = pd.read_csv("Notebooks/Preprocessing Notebooks/Final Sheets/Transactions.csv")
 
 st.set_page_config(page_title="Home Page", initial_sidebar_state='expanded')
-# st.title('Bikes Store')
 
 st.image("pages/assets/Main/DEPI-Graduation-Project.jpg")
 
@@ -22,8 +21,8 @@ with tab1:
     * **Meta Data**:
     ''')
     Customers_Sheets = pd.DataFrame({
-    'Column':['customer_id', 'first_name', 'last_name', 'gender', 'DOB', 'past_3_years_bike_related_purchases', 'job_title', 'job_industry_category', 'wealth_segment', 'deceased_indicator'],
-    'Datatype':['Number', 'Text', 'Text', 'Text', 'Date', 'Number', 'Text', 'Text', 'Text', 'Text'],
+    'Column':['customer_id', 'first_name', 'last_name', 'gender', 'DOB', 'past_3_years_bike_related_purchases', 'job_title', 'job_industry_category', 'wealth_segment', 'deceased_indicator','owns_car', 'tenure'],
+    'Datatype':['Number', 'Text', 'Text', 'Text', 'Date', 'Number', 'Text', 'Text', 'Text', 'Text', 'Text', 'Number'],
     'Description':['Unique identifier for customers (Primary Key)',
                     'Customer\'s first name',
                     'Customer\'s last name',
@@ -33,7 +32,9 @@ with tab1:
                     'Customer\'s job title',
                     'The industry category in which the customer works',
                     'Classification based on customer\'s wealth (Mass, Affluent, High Net Worth)',
-                    'Indicates if the customer is deceased (Y for yes, N for no)']})
+                    'Indicates if the customer is deceased (Y for yes, N for no)',
+                    'Indicates if the customer owns a car (yes or No)',
+                    'The length of time (in years) the customer has been associated with store.']})
     st.dataframe(Customers_Sheets)
 
     with st.expander("Show Customers Sample Data"):
@@ -134,59 +135,135 @@ with tab2:
         Applied the KNN imputation method to fill the missing values in online_order, standard_cost, and product_first_sold_date. By leveraging the 3 nearest neighbors, missing values were imputed with the most approximate values based on the patterns in the data.
                 ''')
     
+    st.markdown(f"""
+    <style>
+        .hover-div {{
+            padding: 10px;
+            border-radius: 10px;
+            background-color: #2c413c;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: center;  /* Centers horizontally */
+            align-items: center;  /* Centers vertically */
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;  /* Makes the div look clickable */
+            text-decoration: none;  /* Remove underline from the text */
+        }}
+        .hover-div:hover {{
+            background-color: #1e7460; /* Slightly lighter background color on hover */
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2); /* Adds a shadow on hover */
+        }}
+        h4 {{
+            margin: 0; /* Remove any default margin */
+            color: white; /* White text */
+            text-align: center; /* Center the text */
+        }}
+    </style>
+    <a href="https://github.com/MohamedHossam606/DEPI-Graduation-Project/tree/main/Notebooks/Preprocessing%20Notebooks" target="_blank" class="hover-div">
+        <h4>View Full Data Preparation Notebooks</h4>
+    </a>""", unsafe_allow_html=True)
 st.divider()
 
-import time
-from streamlit_elements import elements, mui, html, sync
-# Define a list of image paths
+st.write('## **Dashboard**')
+
 images = [
     "pages/assets/Main/Dashboard/Bickes Store Visualization_page-0002.jpg",
     "pages/assets/Main/Dashboard/Bickes Store Visualization_page-0003.jpg",
     "pages/assets/Main/Dashboard/Bickes Store Visualization_page-0004.jpg"
 ]
 
-def slideshow_swipeable(images):
-    # Generate a session state key based on images.
-    key = f"slideshow_swipeable_{str(images).encode().hex()}"
+# Custom CSS for modern button styles
+st.markdown("""
+    <style>
+    .btn-style {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: background-color 0.3s ease-in-out;
+    }
+    .btn-style:hover {
+        background-color: #45a049;
+    }
+    .slider-indicators {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .slider-indicators span {
+        height: 15px;
+        width: 15px;
+        margin: 0 5px;
+        display: inline-block;
+        background-color: #bbb;
+        border-radius: 50%;
+    }
+    .slider-indicators .active {
+        background-color: #717171;
+    }
+    </style>
+""", unsafe_allow_html=True)
 
-    # Initialize the default slideshow index.
-    if key not in st.session_state:
-        st.session_state[key] = 0
-
-    # Get the current slideshow index.
-    index = st.session_state[key]
-
-    # Create a new elements frame.
-    with elements(f"frame_{key}"):
-
-        # Use mui.Stack to vertically display the slideshow and the pagination centered.
-        # https://mui.com/material-ui/react-stack/#usage
-        with mui.Stack(spacing=2, alignItems="center"):
-
-            # Create a swipeable view that updates st.session_state[key] thanks to sync().
-            # It also sets the index so that changing the pagination (see below) will also
-            # update the swipeable view.
-            # https://mui.com/material-ui/react-tabs/#full-width
-            # https://react-swipeable-views.com/demos/demos/
-            with mui.SwipeableViews(index=index, resistance=True, onChangeIndex=sync(key)):
-                for image in images:
-                    html.img(src=image, css={"width": "100%"})
-
-            # Create a handler for mui.Pagination.
-            # https://mui.com/material-ui/react-pagination/#controlled-pagination
-            def handle_change(event, value):
-                # Pagination starts at 1, but our index starts at 0, explaining the '-1'.
-                st.session_state[key] = value-1
-
-            # Display the pagination.
-            # As the index value can also be updated by the swipeable view, we explicitely
-            # set the page value to index+1 (page value starts at 1).
-            # https://mui.com/material-ui/react-pagination/#controlled-pagination
-            mui.Pagination(page=index+1, count=len(images), color="primary", onChange=handle_change)
+# Initialize session state for image index and auto-slide timer
+if "carousel_index" not in st.session_state:
+    st.session_state.carousel_index = 0
 
 
-if __name__ == '__main__':
-    st.title("Streamlit Elements Slideshow")
+# Display the current image
+st.image(images[st.session_state.carousel_index], width=700)
 
-    st.subheader("Swipeable slideshow")
-    slideshow_swipeable(images)
+# Navigation buttons (Previous/Next)
+prev, _, next = st.columns([1, 10, 1])
+
+# Handle the previous button click
+if prev.button("◀", key="prev", help="Previous image", type="primary"):
+    st.session_state.carousel_index = (st.session_state.carousel_index - 1) % len(images)
+
+# Handle the next button click
+if next.button("▶", key="next", help="Next image", type="primary"):
+    st.session_state.carousel_index = (st.session_state.carousel_index + 1) % len(images)
+
+# Extra description or metadata
+st.write(f"Image {st.session_state.carousel_index + 1} of {len(images)}")
+
+st.markdown(f"""
+    <style>
+        .hover-div {{
+            padding: 10px;
+            border-radius: 10px;
+            background-color: #2c413c;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: center;  /* Centers horizontally */
+            align-items: center;  /* Centers vertically */
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;  /* Makes the div look clickable */
+            text-decoration: none;  /* Remove underline from the text */
+        }}
+        .hover-div:hover {{
+            background-color: #1e7460; /* Slightly lighter background color on hover */
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2); /* Adds a shadow on hover */
+        }}
+        h4 {{
+            margin: 0; /* Remove any default margin */
+            color: white; /* White text */
+            text-align: center; /* Center the text */
+        }}
+    </style>
+    <a href="https://app.powerbi.com/links/sgzZ23FXw_?ctid=878ae732-59c5-40e3-8d49-91e7988bccfd&pbi_source=linkShare" target="_blank" class="hover-div">
+        <h4>View Dashboard</h4>
+    </a>""", unsafe_allow_html=True)
+
+# Load the Lottie animation from the URL
+def load_lottieurl(url: str):
+    r = requests.get(url)
+    if r.status_code != 200:
+        return None
+    return r.json()
+
+animation = load_lottieurl('https://lottie.host/af744217-f85d-455c-8dd5-0c8bd672c6a8/CajIat0YS0.json')
+if animation is not None:
+    st_lottie(animation, speed=0.80, quality='high',  height=200)
+else:
+    st.error("Animation failed to load.")
