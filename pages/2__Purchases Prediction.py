@@ -11,18 +11,15 @@ import requests
 from streamlit_lottie import st_lottie
 import os
 
-# Get the current directory of your script
-current_directory = os.path.dirname(os.path.abspath(__file__))
+Transactions_df = pd.read_csv("../Notebooks/Preprocessing Notebooks/Final Sheets/Transactions.csv"))
 
-Transactions_df = pd.read_csv(os.path.join(current_directory, "../Notebooks/Preprocessing Notebooks/Final Sheets/Transactions.csv"))
-
-Q3_2017_Prediction = pd.read_csv(os.path.join(current_directory,"../Notebooks/Preprocessing Notebooks/Final Sheets/Q2_features 2017 Q3 Purchases Prediction.csv"))
-Q4_2017_Prediction = pd.read_csv(os.path.join(current_directory,"../Notebooks/Preprocessing Notebooks/Final Sheets/Q3_features 2017 Q4 Purchases Prediction.csv"))
-Q1_2018_Prediction = pd.read_csv(os.path.join(current_directory,"../Notebooks/Preprocessing Notebooks/Final Sheets/Q4_features 2018 Q1 Purchases Prediction.csv"))
+Q3_2017_Prediction = pd.read_csv("../Notebooks/Preprocessing Notebooks/Final Sheets/Q2_features 2017 Q3 Purchases Prediction.csv"))
+Q4_2017_Prediction = pd.read_csv("../Notebooks/Preprocessing Notebooks/Final Sheets/Q3_features 2017 Q4 Purchases Prediction.csv"))
+Q1_2018_Prediction = pd.read_csv("../Notebooks/Preprocessing Notebooks/Final Sheets/Q4_features 2018 Q1 Purchases Prediction.csv"))
 
 @st.cache_resource
 def load_model():
-    return joblib.load(os.path.join(current_directory,'..\\Notebooks\\Saved Models\\Q3 tranied pipeline_model.pkl'))
+    return joblib.load('../Notebooks/Saved Models/Q3 tranied pipeline_model.pkl'))
 
 # Set page config
 st.set_page_config(page_title="Purchases Prediction",initial_sidebar_state='expanded')
