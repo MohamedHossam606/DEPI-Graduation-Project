@@ -273,7 +273,7 @@ if next.button("▶", key="next", help="Next image", type="primary"):
 st.write(f"Image {st.session_state.carousel_index + 1} of {len(images)}")
 
 with st.expander("Show Full Customers Segmentation Dataset"):
-    st.write("The table below shows the key RFM metrics (Recency, Frequency, and Monetary Value) for each customer. RFM segmentation is a powerful technique for understanding customer behavior.")
+    st.write("The table below shows the key RFM metrics (Recency, Frequency, and Monetary Value) for each customer.")
 
     segment_filter = st.multiselect(
         "Filter by Segment",
