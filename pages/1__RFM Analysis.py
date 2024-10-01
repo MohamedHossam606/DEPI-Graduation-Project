@@ -376,12 +376,12 @@ st.plotly_chart(fig8)
 st.divider()
 
 ### Graph 9: Boxplot of Monetary Values Across Segments
-st.subheader("Monetary Value by Segment")
-st.write("The boxplot shows how the monetary value varies across different RFM segments, providing insights into the spending behavior of customers in each segment.")
-fig9 = px.box(df, x='Segment', y='monetary', title='Monetary Value by Segment',
-              color='Segment', color_discrete_sequence=green_palette)
-st.plotly_chart(fig9)
-st.divider()
+# st.subheader("Monetary Value by Segment")
+# st.write("The boxplot shows how the monetary value varies across different RFM segments, providing insights into the spending behavior of customers in each segment.")
+# fig9 = px.box(df, x='Segment', y='monetary', title='Monetary Value by Segment',
+#               color='Segment', color_discrete_sequence=green_palette)
+# st.plotly_chart(fig9)
+# st.divider()
 
 ### Graph 10: LTV Distribution
 st.subheader("Lifetime Value (LTV) Distribution")
@@ -400,23 +400,23 @@ fig11 = px.bar(df_avg_ltv, x='Segment', y='LTV', title='Average Lifetime Value b
 st.plotly_chart(fig11)
 st.divider()
 
-### Graph 12: Scatter Plot - Recency vs Frequency by Segment
-st.subheader("Recency vs Frequency by Segment")
-st.write("This scatter plot visualizes the relationship between recency and frequency for each customer, segmented by their RFM group. It helps identify which customers are highly engaged and recent.")
-fig12 = px.scatter(df, x='recency', y='frequency', color='Segment',
-                   title='Recency vs Frequency by Segment',
-                   color_discrete_sequence=green_palette)
-st.plotly_chart(fig12)
-st.divider()
+# ### Graph 12: Scatter Plot - Recency vs Frequency by Segment
+# st.subheader("Recency vs Frequency by Segment")
+# st.write("This scatter plot visualizes the relationship between recency and frequency for each customer, segmented by their RFM group. It helps identify which customers are highly engaged and recent.")
+# fig12 = px.scatter(df, x='recency', y='frequency', color='Segment',
+#                    title='Recency vs Frequency by Segment',
+#                    color_discrete_sequence=green_palette)
+# st.plotly_chart(fig12)
+# st.divider()
 
-### Graph 13: Scatter Plot - Frequency vs Monetary by Segment
-st.subheader("Frequency vs Monetary Value by Segment")
-st.write("This scatter plot shows the relationship between the number of purchases (frequency) and total monetary value spent. It provides a sense of which segments are most valuable in terms of frequency and spending.")
-fig13 = px.scatter(df, x='frequency', y='monetary', color='Segment',
-                   title='Frequency vs Monetary by Segment',
-                   color_discrete_sequence=green_palette)
-st.plotly_chart(fig13)
-st.divider()
+# ### Graph 13: Scatter Plot - Frequency vs Monetary by Segment
+# st.subheader("Frequency vs Monetary Value by Segment")
+# st.write("This scatter plot shows the relationship between the number of purchases (frequency) and total monetary value spent. It provides a sense of which segments are most valuable in terms of frequency and spending.")
+# fig13 = px.scatter(df, x='frequency', y='monetary', color='Segment',
+#                    title='Frequency vs Monetary by Segment',
+#                    color_discrete_sequence=green_palette)
+# st.plotly_chart(fig13)
+# st.divider()
 
 ### Graph 14: Correlation Heatmap Between RFM Features
 st.subheader("Correlation Between RFM Features")
