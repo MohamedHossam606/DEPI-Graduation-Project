@@ -70,7 +70,7 @@ with tab1:
 
 with tab2:
     st.markdown('''
-    #### **Process:**
+    #### **Process to Build the Model:**
     ##### **1. Data Preprocessing:**
     * **Cleaning:** Merged customer and transaction datasets and cleaned the data by removing unnecessary columns (e.g., deceased customers and cancelled orders) & Dealt with missing values.
     * **Feature Engineering:** Generate features such as total spend, transaction frequency, recency of purchases, and customer demographics (e.g., age, job industry, wealth segment).
