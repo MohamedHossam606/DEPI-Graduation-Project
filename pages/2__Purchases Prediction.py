@@ -422,6 +422,6 @@ st.markdown(f"""
             text-align: center; /* Center the text */
         }}
     </style>
-    <a href="https://github.com/MohamedHossam606/DEPI-Graduation-Project/tree/main/Notebooks" target="_blank" class="hover-div">
+    <a href="https://github.com/MohamedHossam606/DEPI-Graduation-Project/tree/main/Notebooks/3_Prediction%20Notebooks" target="_blank" class="hover-div">
         <h4>View the full code Notebooks</h4>
     </a>""", unsafe_allow_html=True)
