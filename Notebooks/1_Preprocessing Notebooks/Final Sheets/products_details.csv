@@ -1,0 +1,1773 @@
+unique_product_id,product_id,brand,product_line,product_class,product_size,model
+P00211222012,2,Solex,Standard,medium,medium,2012
+P00321232014,3,Trek Bicycles,Standard,medium,large,2014
+P03731121999,37,OHM Cycles,Standard,low,medium,1999
+P08841221998,88,Norco Bicycles,Standard,medium,medium,1998
+P07851232015,78,Giant Bicycles,Standard,medium,large,2015
+P02552222006,25,Giant Bicycles,Road,medium,medium,2006
+P02261221993,22,WeareA2B,Standard,medium,medium,1993
+P01561222009,15,WeareA2B,Standard,medium,medium,2009
+P06711231991,67,Solex,Standard,medium,large,1991
+P01261222004,12,WeareA2B,Standard,medium,medium,2004
+P00523122011,5,Trek Bicycles,Mountain,low,medium,2011
+P06131122015,61,OHM Cycles,Standard,low,medium,2015
+P03521121994,35,Trek Bicycles,Standard,low,medium,1994
+P01641311994,16,Norco Bicycles,Standard,high,small,1994
+P01251232004,12,Giant Bicycles,Standard,medium,large,2004
+P00321232003,3,Trek Bicycles,Standard,medium,large,2003
+P07941222004,79,Norco Bicycles,Standard,medium,medium,2004
+P03351211992,33,Giant Bicycles,Standard,medium,small,1992
+P05461222009,54,WeareA2B,Standard,medium,medium,2009
+P02552222002,25,Giant Bicycles,Road,medium,medium,2002
+P02721221999,27,Trek Bicycles,Standard,medium,medium,1999
+P03731122015,37,OHM Cycles,Standard,low,medium,2015
+P08252222016,82,Giant Bicycles,Road,medium,medium,2016
+P08964231993,89,WeareA2B,Touring,medium,large,1993
+P06421232015,64,Trek Bicycles,Standard,medium,large,2015
+P06421232012,64,Trek Bicycles,Standard,medium,large,2012
+P01923122016,19,Trek Bicycles,Mountain,low,medium,2016
+P07241222016,72,Norco Bicycles,Standard,medium,medium,2016
+P09161122014,91,WeareA2B,Standard,low,medium,2014
+P08841222002,88,Norco Bicycles,Standard,medium,medium,2002
+P00151222016,1,Giant Bicycles,Standard,medium,medium,2016
+P02552222016,25,Giant Bicycles,Road,medium,medium,2016
+P09922112006,99,Trek Bicycles,Road,low,small,2006
+P00042222005,0,Norco Bicycles,Road,medium,medium,2005
+P09261212003,92,WeareA2B,Standard,medium,small,2003
+P01411331995,14,Solex,Standard,high,large,1995
+P00211221991,2,Solex,Standard,medium,medium,1991
+P01261222005,12,WeareA2B,Standard,medium,medium,2005
+P04461222003,44,WeareA2B,Standard,medium,medium,2003
+P07914232013,79,Solex,Touring,medium,large,2013
+P07661122014,76,WeareA2B,Standard,low,medium,2014
+P04611122003,46,Solex,Standard,low,medium,2003
+P05522232015,55,Trek Bicycles,Road,medium,large,2015
+P06611222016,66,Solex,Standard,medium,medium,2016
+P08111222012,81,Solex,Standard,medium,medium,2012
+P08631222004,86,OHM Cycles,Standard,medium,medium,2004
+P03251222002,32,Giant Bicycles,Standard,medium,medium,2002
+P07742232011,77,Norco Bicycles,Road,medium,large,2011
+P09651232007,96,Giant Bicycles,Standard,medium,large,2007
+P00631321991,6,OHM Cycles,Standard,high,medium,1991
+P02721221994,27,Trek Bicycles,Standard,medium,medium,1994
+P00041122005,0,Norco Bicycles,Standard,low,medium,2005
+P04722111997,47,Trek Bicycles,Road,low,small,1997
+P09451232013,94,Giant Bicycles,Standard,medium,large,2013
+P09111221999,91,Solex,Standard,medium,medium,1999
+P09331322006,93,OHM Cycles,Standard,high,medium,2006
+P06051312014,60,Giant Bicycles,Standard,high,small,2014
+P00032331993,0,OHM Cycles,Road,high,large,1993
+P03551222016,35,Giant Bicycles,Standard,medium,medium,2016
+P00021222006,0,Trek Bicycles,Standard,medium,medium,2006
+P02841212016,28,Norco Bicycles,Standard,medium,small,2016
+P08631221999,86,OHM Cycles,Standard,medium,medium,1999
+P00451322004,4,Giant Bicycles,Standard,high,medium,2004
+P03821232012,38,Trek Bicycles,Standard,medium,large,2012
+P07761222011,77,WeareA2B,Standard,medium,medium,2011
+P05631221997,56,OHM Cycles,Standard,medium,medium,1997
+P05831222015,58,OHM Cycles,Standard,medium,medium,2015
+P02261221991,22,WeareA2B,Standard,medium,medium,1991
+P05061212003,50,WeareA2B,Standard,medium,small,2003
+P08034121998,80,OHM Cycles,Touring,low,medium,1998
+P08751321997,87,Giant Bicycles,Standard,high,medium,1997
+P01541122005,15,Norco Bicycles,Standard,low,medium,2005
+P08452221992,84,Giant Bicycles,Road,medium,medium,1992
+P02111232011,21,Solex,Standard,medium,large,2011
+P00031222003,0,OHM Cycles,Standard,medium,medium,2003
+P08422222004,84,Trek Bicycles,Road,medium,medium,2004
+P00151222004,1,Giant Bicycles,Standard,medium,medium,2004
+P02721221991,27,Trek Bicycles,Standard,medium,medium,1991
+P03161221993,31,WeareA2B,Standard,medium,medium,1993
+P00032332010,0,OHM Cycles,Road,high,large,2010
+P06211221993,62,Solex,Standard,medium,medium,1993
+P01711321996,17,Solex,Standard,high,medium,1996
+P07311222000,73,Solex,Standard,medium,medium,2000
+P03351211999,33,Giant Bicycles,Standard,medium,small,1999
+P08631222005,86,OHM Cycles,Standard,medium,medium,2005
+P04511221993,45,Solex,Standard,medium,medium,1993
+P00151222011,1,Giant Bicycles,Standard,medium,medium,2011
+P08034122004,80,OHM Cycles,Touring,low,medium,2004
+P04922222003,49,Trek Bicycles,Road,medium,medium,2003
+P09551232003,95,Giant Bicycles,Standard,medium,large,2003
+P00011221998,0,Solex,Standard,medium,medium,1998
+P01841322015,18,Norco Bicycles,Standard,high,medium,2015
+P00451322011,4,Giant Bicycles,Standard,high,medium,2011
+P07851232004,78,Giant Bicycles,Standard,medium,large,2004
+P08964232013,89,WeareA2B,Touring,medium,large,2013
+P07021322015,70,Trek Bicycles,Standard,high,medium,2015
+P07941222003,79,Norco Bicycles,Standard,medium,medium,2003
+P02661221993,26,WeareA2B,Standard,medium,medium,1993
+P03951232006,39,Giant Bicycles,Standard,medium,large,2006
+P03611121995,36,Solex,Standard,low,medium,1995
+P00031122015,0,OHM Cycles,Standard,low,medium,2015
+P09821321991,98,Trek Bicycles,Standard,high,medium,1991
+P07554232003,75,Giant Bicycles,Touring,medium,large,2003
+P07661122005,76,WeareA2B,Standard,low,medium,2005
+P07241222011,72,Norco Bicycles,Standard,medium,medium,2011
+P04232211993,42,OHM Cycles,Road,medium,small,1993
+P02021212010,20,Trek Bicycles,Standard,medium,small,2010
+P06421232005,64,Trek Bicycles,Standard,medium,large,2005
+P00021322015,0,Trek Bicycles,Standard,high,medium,2015
+P02552221992,25,Giant Bicycles,Road,medium,medium,1992
+P02412231993,24,Solex,Road,medium,large,1993
+P03161222015,31,WeareA2B,Standard,medium,medium,2015
+P09831221997,98,OHM Cycles,Standard,medium,medium,1997
+P02211222013,22,Solex,Standard,medium,medium,2013
+P05331222003,53,OHM Cycles,Standard,medium,medium,2003
+P08422222005,84,Trek Bicycles,Road,medium,medium,2005
+P05061212015,50,WeareA2B,Standard,medium,small,2015
+P04461222011,44,WeareA2B,Standard,medium,medium,2011
+P09662112002,96,WeareA2B,Road,low,small,2002
+P09361222002,93,WeareA2B,Standard,medium,medium,2002
+P07851231991,78,Giant Bicycles,Standard,medium,large,1991
+P08452222006,84,Giant Bicycles,Road,medium,medium,2006
+P06561222015,65,WeareA2B,Standard,medium,medium,2015
+P00000000,0,N/A,N/A,N/A,N/A,0
+P02961222000,29,WeareA2B,Standard,medium,medium,2000
+P03251322000,32,Giant Bicycles,Standard,high,medium,2000
+P01151322016,11,Giant Bicycles,Standard,high,medium,2016
+P01011222002,10,Solex,Standard,medium,medium,2002
+P04611122012,46,Solex,Standard,low,medium,2012
+P06051312012,60,Giant Bicycles,Standard,high,small,2012
+P09264231991,92,WeareA2B,Touring,medium,large,1991
+P00722122005,7,Trek Bicycles,Road,low,medium,2005
+P04112221997,41,Solex,Road,medium,medium,1997
+P06742222005,67,Norco Bicycles,Road,medium,medium,2005
+P01421212003,14,Trek Bicycles,Standard,medium,small,2003
+P00932221994,9,OHM Cycles,Road,medium,medium,1994
+P03151222003,31,Giant Bicycles,Standard,medium,medium,2003
+P09261212000,92,WeareA2B,Standard,medium,small,2000
+P00321232011,3,Trek Bicycles,Standard,medium,large,2011
+P05643112016,56,Norco Bicycles,Mountain,low,small,2016
+P01411332003,14,Solex,Standard,high,large,2003
+P00611322015,6,Solex,Standard,high,medium,2015
+P05061212009,50,WeareA2B,Standard,medium,small,2009
+P01064222013,10,WeareA2B,Touring,medium,medium,2013
+P06952222015,69,Giant Bicycles,Road,medium,medium,2015
+P08034122015,80,OHM Cycles,Touring,low,medium,2015
+P00321232005,3,Trek Bicycles,Standard,medium,large,2005
+P09041122005,90,Norco Bicycles,Standard,low,medium,2005
+P09711232004,97,Solex,Standard,medium,large,2004
+P00631322003,6,OHM Cycles,Standard,high,medium,2003
+P10042221991,100,Norco Bicycles,Road,medium,medium,1991
+P05522231991,55,Trek Bicycles,Road,medium,large,1991
+P01064221994,10,WeareA2B,Touring,medium,medium,1994
+P07461222003,74,WeareA2B,Standard,medium,medium,2003
+P01711322011,17,Solex,Standard,high,medium,2011
+P01641312013,16,Norco Bicycles,Standard,high,small,2013
+P07111331995,71,Solex,Standard,high,large,1995
+P09161122004,91,WeareA2B,Standard,low,medium,2004
+P00154232003,1,Giant Bicycles,Touring,medium,large,2003
+P00321232012,3,Trek Bicycles,Standard,medium,large,2012
+P05631221993,56,OHM Cycles,Standard,medium,medium,1993
+P03731122011,37,OHM Cycles,Standard,low,medium,2011
+P03442332008,34,Norco Bicycles,Road,high,large,2008
+P00051222006,0,Giant Bicycles,Standard,medium,medium,2006
+P01261222009,12,WeareA2B,Standard,medium,medium,2009
+P02552222011,25,Giant Bicycles,Road,medium,medium,2011
+P08141211991,81,Norco Bicycles,Standard,medium,small,1991
+P01932331999,19,OHM Cycles,Road,high,large,1999
+P07461222014,74,WeareA2B,Standard,medium,medium,2014
+P05764231993,57,WeareA2B,Touring,medium,large,1993
+P00022222012,0,Trek Bicycles,Road,medium,medium,2012
+P02343112006,23,Norco Bicycles,Mountain,low,small,2006
+P00551322005,5,Giant Bicycles,Standard,high,medium,2005
+P05131322012,51,OHM Cycles,Standard,high,medium,2012
+P05961212003,59,WeareA2B,Standard,medium,small,2003
+P06311221992,63,Solex,Standard,medium,medium,1992
+P04031322006,40,OHM Cycles,Standard,high,medium,2006
+P08021232005,80,Trek Bicycles,Standard,medium,large,2005
+P08241322015,82,Norco Bicycles,Standard,high,medium,2015
+P07554232004,75,Giant Bicycles,Touring,medium,large,2004
+P04022232003,40,Trek Bicycles,Road,medium,large,2003
+P00252112010,2,Giant Bicycles,Road,low,small,2010
+P00812212011,8,Solex,Road,medium,small,2011
+P06952221992,69,Giant Bicycles,Road,medium,medium,1992
+P00812211993,8,Solex,Road,medium,small,1993
+P01311222013,13,Solex,Standard,medium,medium,2013
+P01923122011,19,Trek Bicycles,Mountain,low,medium,2011
+P08631222013,86,OHM Cycles,Standard,medium,medium,2013
+P04631121999,46,OHM Cycles,Standard,low,medium,1999
+P03011321999,30,Solex,Standard,high,medium,1999
+P00751212003,7,Giant Bicycles,Standard,medium,small,2003
+P02343111993,23,Norco Bicycles,Mountain,low,small,1993
+P01261221994,12,WeareA2B,Standard,medium,medium,1994
+P02111231991,21,Solex,Standard,medium,large,1991
+P08631222003,86,OHM Cycles,Standard,medium,medium,2003
+P05764231998,57,WeareA2B,Touring,medium,large,1998
+P06311221998,63,Solex,Standard,medium,medium,1998
+P06361221993,63,WeareA2B,Standard,medium,medium,1993
+P03351212010,33,Giant Bicycles,Standard,medium,small,2010
+P09831222015,98,OHM Cycles,Standard,medium,medium,2015
+P01541122009,15,Norco Bicycles,Standard,low,medium,2009
+P04861221997,48,WeareA2B,Standard,medium,medium,1997
+P06311222015,63,Solex,Standard,medium,medium,2015
+P07851232013,78,Giant Bicycles,Standard,medium,large,2013
+P06711231999,67,Solex,Standard,medium,large,1999
+P01311222011,13,Solex,Standard,medium,medium,2011
+P04922222012,49,Trek Bicycles,Road,medium,medium,2012
+P03151222011,31,Giant Bicycles,Standard,medium,medium,2011
+P01711322009,17,Solex,Standard,high,medium,2009
+P05331222000,53,OHM Cycles,Standard,medium,medium,2000
+P03811221993,38,Solex,Standard,medium,medium,1993
+P06952222014,69,Giant Bicycles,Road,medium,medium,2014
+P06831222010,68,OHM Cycles,Standard,medium,medium,2010
+P01151322013,11,Giant Bicycles,Standard,high,medium,2013
+P00211222005,2,Solex,Standard,medium,medium,2005
+P00021322004,0,Trek Bicycles,Standard,high,medium,2004
+P08111221997,81,Solex,Standard,medium,medium,1997
+P00631322014,6,OHM Cycles,Standard,high,medium,2014
+P01811221993,18,Solex,Standard,medium,medium,1993
+P01841321998,18,Norco Bicycles,Standard,high,medium,1998
+P00932221991,9,OHM Cycles,Road,medium,medium,1991
+P09361222016,93,WeareA2B,Standard,medium,medium,2016
+P04461222012,44,WeareA2B,Standard,medium,medium,2012
+P04861222014,48,WeareA2B,Standard,medium,medium,2014
+P03611122012,36,Solex,Standard,low,medium,2012
+P03611122006,36,Solex,Standard,low,medium,2006
+P01311221994,13,Solex,Standard,medium,medium,1994
+P05522231993,55,Trek Bicycles,Road,medium,large,1993
+P03811222011,38,Solex,Standard,medium,medium,2011
+P06451312015,64,Giant Bicycles,Standard,high,small,2015
+P00031322007,0,OHM Cycles,Standard,high,medium,2007
+P01151322007,11,Giant Bicycles,Standard,high,medium,2007
+P09111222003,91,Solex,Standard,medium,medium,2003
+P01811222013,18,Solex,Standard,medium,medium,2013
+P01311222016,13,Solex,Standard,medium,medium,2016
+P07851231997,78,Giant Bicycles,Standard,medium,large,1997
+P04232211999,42,OHM Cycles,Road,medium,small,1999
+P01261222016,12,WeareA2B,Standard,medium,medium,2016
+P02531322015,25,OHM Cycles,Standard,high,medium,2015
+P00722122004,7,Trek Bicycles,Road,low,medium,2004
+P08111221999,81,Solex,Standard,medium,medium,1999
+P00631322007,6,OHM Cycles,Standard,high,medium,2007
+P06211222015,62,Solex,Standard,medium,medium,2015
+P09041121999,90,Norco Bicycles,Standard,low,medium,1999
+P03251221992,32,Giant Bicycles,Standard,medium,medium,1992
+P06561222002,65,WeareA2B,Standard,medium,medium,2002
+P03611122008,36,Solex,Standard,low,medium,2008
+P08731222010,87,OHM Cycles,Standard,medium,medium,2010
+P06211221992,62,Solex,Standard,medium,medium,1992
+P00151222012,1,Giant Bicycles,Standard,medium,medium,2012
+P06141211991,61,Norco Bicycles,Standard,medium,small,1991
+P07111332006,71,Solex,Standard,high,large,2006
+P05832222001,58,OHM Cycles,Road,medium,medium,2001
+P08642331999,86,Norco Bicycles,Road,high,large,1999
+P05522232003,55,Trek Bicycles,Road,medium,large,2003
+P08241322013,82,Norco Bicycles,Standard,high,medium,2013
+P03251222003,32,Giant Bicycles,Standard,medium,medium,2003
+P00151222005,1,Giant Bicycles,Standard,medium,medium,2005
+P02412232011,24,Solex,Road,medium,large,2011
+P00751211992,7,Giant Bicycles,Standard,medium,small,1992
+P05911231993,59,Solex,Standard,medium,large,1993
+P03442331995,34,Norco Bicycles,Road,high,large,1995
+P08314232013,83,Solex,Touring,medium,large,2013
+P08252221993,82,Giant Bicycles,Road,medium,medium,1993
+P06942232011,69,Norco Bicycles,Road,medium,large,2011
+P00722122014,7,Trek Bicycles,Road,low,medium,2014
+P07311222002,73,Solex,Standard,medium,medium,2002
+P03951232007,39,Giant Bicycles,Standard,medium,large,2007
+P02531322012,25,OHM Cycles,Standard,high,medium,2012
+P03251322013,32,Giant Bicycles,Standard,high,medium,2013
+P05631222012,56,OHM Cycles,Standard,medium,medium,2012
+P01764231993,17,WeareA2B,Touring,medium,large,1993
+P00011222012,0,Solex,Standard,medium,medium,2012
+P05331221997,53,OHM Cycles,Standard,medium,medium,1997
+P02021212016,20,Trek Bicycles,Standard,medium,small,2016
+P08314232015,83,Solex,Touring,medium,large,2015
+P03951232011,39,Giant Bicycles,Standard,medium,large,2011
+P06711231996,67,Solex,Standard,medium,large,1996
+P04022231993,40,Trek Bicycles,Road,medium,large,1993
+P01311222005,13,Solex,Standard,medium,medium,2005
+P03521122010,35,Trek Bicycles,Standard,low,medium,2010
+P07941222007,79,Norco Bicycles,Standard,medium,medium,2007
+P08642331997,86,Norco Bicycles,Road,high,large,1997
+P00932222014,9,OHM Cycles,Road,medium,medium,2014
+P05832221997,58,OHM Cycles,Road,medium,medium,1997
+P04311221999,43,Solex,Standard,medium,medium,1999
+P08841222000,88,Norco Bicycles,Standard,medium,medium,2000
+P08314232004,83,Solex,Touring,medium,large,2004
+P00011222003,0,Solex,Standard,medium,medium,2003
+P08252221991,82,Giant Bicycles,Road,medium,medium,1991
+P08841221993,88,Norco Bicycles,Standard,medium,medium,1993
+P06742222007,67,Norco Bicycles,Road,medium,medium,2007
+P01811222004,18,Solex,Standard,medium,medium,2004
+P02343112011,23,Norco Bicycles,Mountain,low,small,2011
+P08252222011,82,Giant Bicycles,Road,medium,medium,2011
+P02021211993,20,Trek Bicycles,Standard,medium,small,1993
+P06561221993,65,WeareA2B,Standard,medium,medium,1993
+P07661121991,76,WeareA2B,Standard,low,medium,1991
+P01711322016,17,Solex,Standard,high,medium,2016
+P03951232010,39,Giant Bicycles,Standard,medium,large,2010
+P03461222004,34,WeareA2B,Standard,medium,medium,2004
+P09732222014,97,OHM Cycles,Road,medium,medium,2014
+P00941211991,9,Norco Bicycles,Standard,medium,small,1991
+P01151321996,11,Giant Bicycles,Standard,high,medium,1996
+P09651232004,96,Giant Bicycles,Standard,medium,large,2004
+P02812212014,28,Solex,Road,medium,small,2014
+P07021322014,70,Trek Bicycles,Standard,high,medium,2014
+P06211221998,62,Solex,Standard,medium,medium,1998
+P02111231996,21,Solex,Standard,medium,large,1996
+P00411221998,4,Solex,Standard,medium,medium,1998
+P01311222008,13,Solex,Standard,medium,medium,2008
+P03351212003,33,Giant Bicycles,Standard,medium,small,2003
+P05461222015,54,WeareA2B,Standard,medium,medium,2015
+P09361222000,93,WeareA2B,Standard,medium,medium,2000
+P06311222005,63,Solex,Standard,medium,medium,2005
+P05232222015,52,OHM Cycles,Road,medium,medium,2015
+P03351211997,33,Giant Bicycles,Standard,medium,small,1997
+P00523122007,5,Trek Bicycles,Mountain,low,medium,2007
+P02942222016,29,Norco Bicycles,Road,medium,medium,2016
+P08021232012,80,Trek Bicycles,Standard,medium,large,2012
+P00932221993,9,OHM Cycles,Road,medium,medium,1993
+P02412232016,24,Solex,Road,medium,large,2016
+P08452222015,84,Giant Bicycles,Road,medium,medium,2015
+P00751212010,7,Giant Bicycles,Standard,medium,small,2010
+P04611122007,46,Solex,Standard,low,medium,2007
+P06211222012,62,Solex,Standard,medium,medium,2012
+P08141212004,81,Norco Bicycles,Standard,medium,small,2004
+P03151222006,31,Giant Bicycles,Standard,medium,medium,2006
+P01311221997,13,Solex,Standard,medium,medium,1997
+P05331221993,53,OHM Cycles,Standard,medium,medium,1993
+P01811221999,18,Solex,Standard,medium,medium,1999
+P02531321993,25,OHM Cycles,Standard,high,medium,1993
+P02164222003,21,WeareA2B,Touring,medium,medium,2003
+P07311222006,73,Solex,Standard,medium,medium,2006
+P09821322004,98,Trek Bicycles,Standard,high,medium,2004
+P05232222001,52,OHM Cycles,Road,medium,medium,2001
+P08731222002,87,OHM Cycles,Standard,medium,medium,2002
+P02552222004,25,Giant Bicycles,Road,medium,medium,2004
+P03251221994,32,Giant Bicycles,Standard,medium,medium,1994
+P04461222006,44,WeareA2B,Standard,medium,medium,2006
+P09264232015,92,WeareA2B,Touring,medium,large,2015
+P06211321993,62,Solex,Standard,high,medium,1993
+P02841211995,28,Norco Bicycles,Standard,medium,small,1995
+P07742232013,77,Norco Bicycles,Road,medium,large,2013
+P06652112010,66,Giant Bicycles,Road,low,small,2010
+P06652111995,66,Giant Bicycles,Road,low,small,1995
+P01711322010,17,Solex,Standard,high,medium,2010
+P08561222015,85,WeareA2B,Standard,medium,medium,2015
+P02412231991,24,Solex,Road,medium,large,1991
+P05764232012,57,WeareA2B,Touring,medium,large,2012
+P05331222011,53,OHM Cycles,Standard,medium,medium,2011
+P04311222011,43,Solex,Standard,medium,medium,2011
+P07742232015,77,Norco Bicycles,Road,medium,large,2015
+P09261212004,92,WeareA2B,Standard,medium,small,2004
+P09931221991,99,OHM Cycles,Standard,medium,medium,1991
+P01421211993,14,Trek Bicycles,Standard,medium,small,1993
+P04232212011,42,OHM Cycles,Road,medium,small,2011
+P07761222007,77,WeareA2B,Standard,medium,medium,2007
+P05764231991,57,WeareA2B,Touring,medium,large,1991
+P03031221994,30,OHM Cycles,Standard,medium,medium,1994
+P00451321999,4,Giant Bicycles,Standard,high,medium,1999
+P07461221997,74,WeareA2B,Standard,medium,medium,1997
+P04031321993,40,OHM Cycles,Standard,high,medium,1993
+P08034121997,80,OHM Cycles,Touring,low,medium,1997
+P09651232013,96,Giant Bicycles,Standard,medium,large,2013
+P04522122004,45,Trek Bicycles,Road,low,medium,2004
+P00031322003,0,OHM Cycles,Standard,high,medium,2003
+P02111231993,21,Solex,Standard,medium,large,1993
+P09011121995,90,Solex,Standard,low,medium,1995
+P09111221994,91,Solex,Standard,medium,medium,1994
+P02021211991,20,Trek Bicycles,Standard,medium,small,1991
+P06561222010,65,WeareA2B,Standard,medium,medium,2010
+P09711231991,97,Solex,Standard,medium,large,1991
+P04511222012,45,Solex,Standard,medium,medium,2012
+P06561221992,65,WeareA2B,Standard,medium,medium,1992
+P01064222005,10,WeareA2B,Touring,medium,medium,2005
+P07662112002,76,WeareA2B,Road,low,small,2002
+P00411222005,4,Solex,Standard,medium,medium,2005
+P08964232000,89,WeareA2B,Touring,medium,large,2000
+P08964232016,89,WeareA2B,Touring,medium,large,2016
+P06611222003,66,Solex,Standard,medium,medium,2003
+P05131322009,51,OHM Cycles,Standard,high,medium,2009
+P00022222004,0,Trek Bicycles,Road,medium,medium,2004
+P04311221993,43,Solex,Standard,medium,medium,1993
+P05631222015,56,OHM Cycles,Standard,medium,medium,2015
+P08252222002,82,Giant Bicycles,Road,medium,medium,2002
+P00722121991,7,Trek Bicycles,Road,low,medium,1991
+P00051231991,0,Giant Bicycles,Standard,medium,large,1991
+P03151221992,31,Giant Bicycles,Standard,medium,medium,1992
+P08422221993,84,Trek Bicycles,Road,medium,medium,1993
+P08642332003,86,Norco Bicycles,Road,high,large,2003
+P01251232015,12,Giant Bicycles,Standard,medium,large,2015
+P07662111994,76,WeareA2B,Road,low,small,1994
+P08964232003,89,WeareA2B,Touring,medium,large,2003
+P05212232011,52,Solex,Road,medium,large,2011
+P09662111991,96,WeareA2B,Road,low,small,1991
+P00031322011,0,OHM Cycles,Standard,high,medium,2011
+P07021321999,70,Trek Bicycles,Standard,high,medium,1999
+P07461222000,74,WeareA2B,Standard,medium,medium,2000
+P08561222000,85,WeareA2B,Standard,medium,medium,2000
+P09161122011,91,WeareA2B,Standard,low,medium,2011
+P08141211998,81,Norco Bicycles,Standard,medium,small,1998
+P01261221996,12,WeareA2B,Standard,medium,medium,1996
+P07914232010,79,Solex,Touring,medium,large,2010
+P08951232010,89,Giant Bicycles,Standard,medium,large,2010
+P08964232005,89,WeareA2B,Touring,medium,large,2005
+P09451231994,94,Giant Bicycles,Standard,medium,large,1994
+P00042222016,0,Norco Bicycles,Road,medium,medium,2016
+P09011122011,90,Solex,Standard,low,medium,2011
+P04922221991,49,Trek Bicycles,Road,medium,medium,1991
+P08314232005,83,Solex,Touring,medium,large,2005
+P09551232006,95,Giant Bicycles,Standard,medium,large,2006
+P09551232016,95,Giant Bicycles,Standard,medium,large,2016
+P03011321991,30,Solex,Standard,high,medium,1991
+P09711232016,97,Solex,Standard,medium,large,2016
+P09931221994,99,OHM Cycles,Standard,medium,medium,1994
+P00321231999,3,Trek Bicycles,Standard,medium,large,1999
+P04232211997,42,OHM Cycles,Road,medium,small,1997
+P06421232016,64,Trek Bicycles,Standard,medium,large,2016
+P00451322005,4,Giant Bicycles,Standard,high,medium,2005
+P00812212005,8,Solex,Road,medium,small,2005
+P02661222015,26,WeareA2B,Standard,medium,medium,2015
+P00061221991,0,WeareA2B,Standard,medium,medium,1991
+P04112221999,41,Solex,Road,medium,medium,1999
+P06211222010,62,Solex,Standard,medium,medium,2010
+P07241222003,72,Norco Bicycles,Standard,medium,medium,2003
+P06831222000,68,OHM Cycles,Standard,medium,medium,2000
+P00551322003,5,Giant Bicycles,Standard,high,medium,2003
+P06131121993,61,OHM Cycles,Standard,low,medium,1993
+P00031221997,0,OHM Cycles,Standard,medium,medium,1997
+P07461222004,74,WeareA2B,Standard,medium,medium,2004
+P07554232006,75,Giant Bicycles,Touring,medium,large,2006
+P03442332003,34,Norco Bicycles,Road,high,large,2003
+P08841312010,88,Norco Bicycles,Standard,high,small,2010
+P01541121993,15,Norco Bicycles,Standard,low,medium,1993
+P00812211991,8,Solex,Road,medium,small,1991
+P00012221993,0,Solex,Road,medium,medium,1993
+P06421232010,64,Trek Bicycles,Standard,medium,large,2010
+P08841311994,88,Norco Bicycles,Standard,high,small,1994
+P06051312011,60,Giant Bicycles,Standard,high,small,2011
+P05131321997,51,OHM Cycles,Standard,high,medium,1997
+P00022221997,0,Trek Bicycles,Road,medium,medium,1997
+P04141122005,41,Norco Bicycles,Standard,low,medium,2005
+P08241322006,82,Norco Bicycles,Standard,high,medium,2006
+P04722112003,47,Trek Bicycles,Road,low,small,2003
+P00011221999,0,Solex,Standard,medium,medium,1999
+P06561222016,65,WeareA2B,Standard,medium,medium,2016
+P09534122015,95,OHM Cycles,Touring,low,medium,2015
+P00021322006,0,Trek Bicycles,Standard,high,medium,2006
+P02721122010,27,Trek Bicycles,Standard,low,medium,2010
+P01932332009,19,OHM Cycles,Road,high,large,2009
+P05351322007,53,Giant Bicycles,Standard,high,medium,2007
+P05232221997,52,OHM Cycles,Road,medium,medium,1997
+P06211321996,62,Solex,Standard,high,medium,1996
+P04232212008,42,OHM Cycles,Road,medium,small,2008
+P02661221992,26,WeareA2B,Standard,medium,medium,1992
+P05643111993,56,Norco Bicycles,Mountain,low,small,1993
+P02841211991,28,Norco Bicycles,Standard,medium,small,1991
+P03251222010,32,Giant Bicycles,Standard,medium,medium,2010
+P07554231991,75,Giant Bicycles,Touring,medium,large,1991
+P05911232011,59,Solex,Standard,medium,large,2011
+P00812212014,8,Solex,Road,medium,small,2014
+P00451321991,4,Giant Bicycles,Standard,high,medium,1991
+P00611321991,6,Solex,Standard,high,medium,1991
+P08141211993,81,Norco Bicycles,Standard,medium,small,1993
+P09534122013,95,OHM Cycles,Touring,low,medium,2013
+P05831222012,58,OHM Cycles,Standard,medium,medium,2012
+P03951231999,39,Giant Bicycles,Standard,medium,large,1999
+P09451232004,94,Giant Bicycles,Standard,medium,large,2004
+P00051232003,0,Giant Bicycles,Standard,medium,large,2003
+P08141212013,81,Norco Bicycles,Standard,medium,small,2013
+P03442332010,34,Norco Bicycles,Road,high,large,2010
+P06711232011,67,Solex,Standard,medium,large,2011
+P06942232015,69,Norco Bicycles,Road,medium,large,2015
+P01811221997,18,Solex,Standard,medium,medium,1997
+P00321232008,3,Trek Bicycles,Standard,medium,large,2008
+P00321232010,3,Trek Bicycles,Standard,medium,large,2010
+P02164222005,21,WeareA2B,Touring,medium,medium,2005
+P03461221996,34,WeareA2B,Standard,medium,medium,1996
+P04722112006,47,Trek Bicycles,Road,low,small,2006
+P02261222016,22,WeareA2B,Standard,medium,medium,2016
+P09831222003,98,OHM Cycles,Standard,medium,medium,2003
+P00211222003,2,Solex,Standard,medium,medium,2003
+P04511221992,45,Solex,Standard,medium,medium,1992
+P05131322001,51,OHM Cycles,Standard,high,medium,2001
+P00252112000,2,Giant Bicycles,Road,low,small,2000
+P03611122007,36,Solex,Standard,low,medium,2007
+P07661122003,76,WeareA2B,Standard,low,medium,2003
+P04511222001,45,Solex,Standard,medium,medium,2001
+P02111232016,21,Solex,Standard,medium,large,2016
+P04031321999,40,OHM Cycles,Standard,high,medium,1999
+P09534121998,95,OHM Cycles,Touring,low,medium,1998
+P03811222008,38,Solex,Standard,medium,medium,2008
+P05764232015,57,WeareA2B,Touring,medium,large,2015
+P09361222003,93,WeareA2B,Standard,medium,medium,2003
+P00041222016,0,Norco Bicycles,Standard,medium,medium,2016
+P05631221998,56,OHM Cycles,Standard,medium,medium,1998
+P00211222011,2,Solex,Standard,medium,medium,2011
+P00021322016,0,Trek Bicycles,Standard,high,medium,2016
+P04031322008,40,OHM Cycles,Standard,high,medium,2008
+P09261212002,92,WeareA2B,Standard,medium,small,2002
+P05631221991,56,OHM Cycles,Standard,medium,medium,1991
+P03811221997,38,Solex,Standard,medium,medium,1997
+P07311222011,73,Solex,Standard,medium,medium,2011
+P04031322014,40,OHM Cycles,Standard,high,medium,2014
+P00154232015,1,Giant Bicycles,Touring,medium,large,2015
+P00321231991,3,Trek Bicycles,Standard,medium,large,1991
+P03821232003,38,Trek Bicycles,Standard,medium,large,2003
+P08731222006,87,OHM Cycles,Standard,medium,medium,2006
+P10021212003,100,Trek Bicycles,Standard,medium,small,2003
+P00031322004,0,OHM Cycles,Standard,high,medium,2004
+P00021321991,0,Trek Bicycles,Standard,high,medium,1991
+P00252111992,2,Giant Bicycles,Road,low,small,1992
+P06051312005,60,Giant Bicycles,Standard,high,small,2005
+P00523121991,5,Trek Bicycles,Mountain,low,medium,1991
+P09361221994,93,WeareA2B,Standard,medium,medium,1994
+P02721222003,27,Trek Bicycles,Standard,medium,medium,2003
+P08422222015,84,Trek Bicycles,Road,medium,medium,2015
+P03611121997,36,Solex,Standard,low,medium,1997
+P09361221991,93,WeareA2B,Standard,medium,medium,1991
+P08561222003,85,WeareA2B,Standard,medium,medium,2003
+P08642332006,86,Norco Bicycles,Road,high,large,2006
+P02343111999,23,Norco Bicycles,Mountain,low,small,1999
+P00061211997,0,WeareA2B,Standard,medium,small,1997
+P00451321995,4,Giant Bicycles,Standard,high,medium,1995
+P05051222002,50,Giant Bicycles,Standard,medium,medium,2002
+P07941222013,79,Norco Bicycles,Standard,medium,medium,2013
+P03551222011,35,Giant Bicycles,Standard,medium,medium,2011
+P09732221991,97,OHM Cycles,Road,medium,medium,1991
+P05212231993,52,Solex,Road,medium,large,1993
+P01121212010,11,Trek Bicycles,Standard,medium,small,2010
+P08314231993,83,Solex,Touring,medium,large,1993
+P03811222001,38,Solex,Standard,medium,medium,2001
+P05051221995,50,Giant Bicycles,Standard,medium,medium,1995
+P04922222001,49,Trek Bicycles,Road,medium,medium,2001
+P03611121999,36,Solex,Standard,low,medium,1999
+P01711321993,17,Solex,Standard,high,medium,1993
+P00523122003,5,Trek Bicycles,Mountain,low,medium,2003
+P00031222005,0,OHM Cycles,Standard,medium,medium,2005
+P06311222004,63,Solex,Standard,medium,medium,2004
+P01841322013,18,Norco Bicycles,Standard,high,medium,2013
+P01064221996,10,WeareA2B,Touring,medium,medium,1996
+P06451312005,64,Giant Bicycles,Standard,high,small,2005
+P03731122008,37,OHM Cycles,Standard,low,medium,2008
+P02812212011,28,Solex,Road,medium,small,2011
+P00151222000,1,Giant Bicycles,Standard,medium,medium,2000
+P05351322004,53,Giant Bicycles,Standard,high,medium,2004
+P00321232006,3,Trek Bicycles,Standard,medium,large,2006
+P05961211991,59,WeareA2B,Standard,medium,small,1991
+P03351212011,33,Giant Bicycles,Standard,medium,small,2011
+P05212231991,52,Solex,Road,medium,large,1991
+P09361222007,93,WeareA2B,Standard,medium,medium,2007
+P08034121991,80,OHM Cycles,Touring,low,medium,1991
+P08452222016,84,Giant Bicycles,Road,medium,medium,2016
+P03521122008,35,Trek Bicycles,Standard,low,medium,2008
+P04141121996,41,Norco Bicycles,Standard,low,medium,1996
+P04341222004,43,Norco Bicycles,Standard,medium,medium,2004
+P00451322003,4,Giant Bicycles,Standard,high,medium,2003
+P02341222000,23,Norco Bicycles,Standard,medium,medium,2000
+P02552221999,25,Giant Bicycles,Road,medium,medium,1999
+P09361222004,93,WeareA2B,Standard,medium,medium,2004
+P04922221997,49,Trek Bicycles,Road,medium,medium,1997
+P03821232007,38,Trek Bicycles,Standard,medium,large,2007
+P03011322003,30,Solex,Standard,high,medium,2003
+P05461221992,54,WeareA2B,Standard,medium,medium,1992
+P03951232008,39,Giant Bicycles,Standard,medium,large,2008
+P06211322016,62,Solex,Standard,high,medium,2016
+P06652112016,66,Giant Bicycles,Road,low,small,2016
+P07742231991,77,Norco Bicycles,Road,medium,large,1991
+P08111222006,81,Solex,Standard,medium,medium,2006
+P06831221995,68,OHM Cycles,Standard,medium,medium,1995
+P06311221995,63,Solex,Standard,medium,medium,1995
+P09922111997,99,Trek Bicycles,Road,low,small,1997
+P09662112004,96,WeareA2B,Road,low,small,2004
+P03521122011,35,Trek Bicycles,Standard,low,medium,2011
+P01064222007,10,WeareA2B,Touring,medium,medium,2007
+P03611122011,36,Solex,Standard,low,medium,2011
+P09111222004,91,Solex,Standard,medium,medium,2004
+P07461222001,74,WeareA2B,Standard,medium,medium,2001
+P07241222004,72,Norco Bicycles,Standard,medium,medium,2004
+P04341222013,43,Norco Bicycles,Standard,medium,medium,2013
+P01421212013,14,Trek Bicycles,Standard,medium,small,2013
+P07111332003,71,Solex,Standard,high,large,2003
+P03151221995,31,Giant Bicycles,Standard,medium,medium,1995
+P02721121994,27,Trek Bicycles,Standard,low,medium,1994
+P02721221992,27,Trek Bicycles,Standard,medium,medium,1992
+P05051221994,50,Giant Bicycles,Standard,medium,medium,1994
+P08561221999,85,WeareA2B,Standard,medium,medium,1999
+P08314231997,83,Solex,Touring,medium,large,1997
+P00032332009,0,OHM Cycles,Road,high,large,2009
+P05831221998,58,OHM Cycles,Standard,medium,medium,1998
+P08034122013,80,OHM Cycles,Touring,low,medium,2013
+P08561221997,85,WeareA2B,Standard,medium,medium,1997
+P00722122007,7,Trek Bicycles,Road,low,medium,2007
+P00523121998,5,Trek Bicycles,Mountain,low,medium,1998
+P00011222014,0,Solex,Standard,medium,medium,2014
+P00012222012,0,Solex,Road,medium,medium,2012
+P00042221994,0,Norco Bicycles,Road,medium,medium,1994
+P07742231997,77,Norco Bicycles,Road,medium,large,1997
+P08841222005,88,Norco Bicycles,Standard,medium,medium,2005
+P06141212013,61,Norco Bicycles,Standard,medium,small,2013
+P04861222001,48,WeareA2B,Standard,medium,medium,2001
+P04522122011,45,Trek Bicycles,Road,low,medium,2011
+P03731121998,37,OHM Cycles,Standard,low,medium,1998
+P02721121999,27,Trek Bicycles,Standard,low,medium,1999
+P06952221995,69,Giant Bicycles,Road,medium,medium,1995
+P08561222005,85,WeareA2B,Standard,medium,medium,2005
+P00022222015,0,Trek Bicycles,Road,medium,medium,2015
+P00812212003,8,Solex,Road,medium,small,2003
+P09264231996,92,WeareA2B,Touring,medium,large,1996
+P07231222015,72,OHM Cycles,Standard,medium,medium,2015
+P05461222003,54,WeareA2B,Standard,medium,medium,2003
+P04911231993,49,Solex,Standard,medium,large,1993
+P06831221992,68,OHM Cycles,Standard,medium,medium,1992
+P00011222011,0,Solex,Standard,medium,medium,2011
+P02812212016,28,Solex,Road,medium,small,2016
+P01064222014,10,WeareA2B,Touring,medium,medium,2014
+P00031122005,0,OHM Cycles,Standard,low,medium,2005
+P07021322000,70,Trek Bicycles,Standard,high,medium,2000
+P09534122004,95,OHM Cycles,Touring,low,medium,2004
+P02341222003,23,Norco Bicycles,Standard,medium,medium,2003
+P00031222015,0,OHM Cycles,Standard,medium,medium,2015
+P06141211998,61,Norco Bicycles,Standard,medium,small,1998
+P01561222011,15,WeareA2B,Standard,medium,medium,2011
+P08751321998,87,Giant Bicycles,Standard,high,medium,1998
+P09662111994,96,WeareA2B,Road,low,small,1994
+P09331321997,93,OHM Cycles,Standard,high,medium,1997
+P07554231997,75,Giant Bicycles,Touring,medium,large,1997
+P00631322016,6,OHM Cycles,Standard,high,medium,2016
+P00051221992,0,Giant Bicycles,Standard,medium,medium,1992
+P05461221991,54,WeareA2B,Standard,medium,medium,1991
+P06942231997,69,Norco Bicycles,Road,medium,large,1997
+P07461222006,74,WeareA2B,Standard,medium,medium,2006
+P00011221993,0,Solex,Standard,medium,medium,1993
+P09922112001,99,Trek Bicycles,Road,low,small,2001
+P03821232014,38,Trek Bicycles,Standard,medium,large,2014
+P00151222003,1,Giant Bicycles,Standard,medium,medium,2003
+P05212232006,52,Solex,Road,medium,large,2006
+P01841322005,18,Norco Bicycles,Standard,high,medium,2005
+P05764232011,57,WeareA2B,Touring,medium,large,2011
+P01151321993,11,Giant Bicycles,Standard,high,medium,1993
+P03811222007,38,Solex,Standard,medium,medium,2007
+P01421212010,14,Trek Bicycles,Standard,medium,small,2010
+P04341222003,43,Norco Bicycles,Standard,medium,medium,2003
+P05461222005,54,WeareA2B,Standard,medium,medium,2005
+P06211222011,62,Solex,Standard,medium,medium,2011
+P05911232010,59,Solex,Standard,medium,large,2010
+P00321232007,3,Trek Bicycles,Standard,medium,large,2007
+P09551231994,95,Giant Bicycles,Standard,medium,large,1994
+P00321232004,3,Trek Bicycles,Standard,medium,large,2004
+P00722122011,7,Trek Bicycles,Road,low,medium,2011
+P09111222013,91,Solex,Standard,medium,medium,2013
+P07311222004,73,Solex,Standard,medium,medium,2004
+P09041122002,90,Norco Bicycles,Standard,low,medium,2002
+P01811222011,18,Solex,Standard,medium,medium,2011
+P04311222014,43,Solex,Standard,medium,medium,2014
+P03951231997,39,Giant Bicycles,Standard,medium,large,1997
+P06611222015,66,Solex,Standard,medium,medium,2015
+P03521121995,35,Trek Bicycles,Standard,low,medium,1995
+P03251322005,32,Giant Bicycles,Standard,high,medium,2005
+P07311222014,73,Solex,Standard,medium,medium,2014
+P07231221993,72,OHM Cycles,Standard,medium,medium,1993
+P03332212008,33,OHM Cycles,Road,medium,small,2008
+P06361221991,63,WeareA2B,Standard,medium,medium,1991
+P02343111991,23,Norco Bicycles,Mountain,low,small,1991
+P00932222016,9,OHM Cycles,Road,medium,medium,2016
+P01311222006,13,Solex,Standard,medium,medium,2006
+P07661122015,76,WeareA2B,Standard,low,medium,2015
+P02841211992,28,Norco Bicycles,Standard,medium,small,1992
+P07021322004,70,Trek Bicycles,Standard,high,medium,2004
+P06561222005,65,WeareA2B,Standard,medium,medium,2005
+P04232212003,42,OHM Cycles,Road,medium,small,2003
+P03161221998,31,WeareA2B,Standard,medium,medium,1998
+P01541121996,15,Norco Bicycles,Standard,low,medium,1996
+P04031322011,40,OHM Cycles,Standard,high,medium,2011
+P00031221993,0,OHM Cycles,Standard,medium,medium,1993
+P00321232001,3,Trek Bicycles,Standard,medium,large,2001
+P00722122003,7,Trek Bicycles,Road,low,medium,2003
+P03251321997,32,Giant Bicycles,Standard,high,medium,1997
+P08314231999,83,Solex,Touring,medium,large,1999
+P00031222004,0,OHM Cycles,Standard,medium,medium,2004
+P00751211995,7,Giant Bicycles,Standard,medium,small,1995
+P09261211998,92,WeareA2B,Standard,medium,small,1998
+P08241321998,82,Norco Bicycles,Standard,high,medium,1998
+P09361222013,93,WeareA2B,Standard,medium,medium,2013
+P03442331999,34,Norco Bicycles,Road,high,large,1999
+P02164222014,21,WeareA2B,Touring,medium,medium,2014
+P03011322015,30,Solex,Standard,high,medium,2015
+P05331222009,53,OHM Cycles,Standard,medium,medium,2009
+P04861222016,48,WeareA2B,Standard,medium,medium,2016
+P00151221997,1,Giant Bicycles,Standard,medium,medium,1997
+P00941211992,9,Norco Bicycles,Standard,medium,small,1992
+P00154232006,1,Giant Bicycles,Touring,medium,large,2006
+P07554232014,75,Giant Bicycles,Touring,medium,large,2014
+P00751212011,7,Giant Bicycles,Standard,medium,small,2011
+P08951232006,89,Giant Bicycles,Standard,medium,large,2006
+P02021212011,20,Trek Bicycles,Standard,medium,small,2011
+P05764231994,57,WeareA2B,Touring,medium,large,1994
+P00031221991,0,OHM Cycles,Standard,medium,medium,1991
+P08631222000,86,OHM Cycles,Standard,medium,medium,2000
+P05131321993,51,OHM Cycles,Standard,high,medium,1993
+P05351322009,53,Giant Bicycles,Standard,high,medium,2009
+P05212232016,52,Solex,Road,medium,large,2016
+P07111332011,71,Solex,Standard,high,large,2011
+P08422222003,84,Trek Bicycles,Road,medium,medium,2003
+P09732222016,97,OHM Cycles,Road,medium,medium,2016
+P07742232000,77,Norco Bicycles,Road,medium,large,2000
+P08252221999,82,Giant Bicycles,Road,medium,medium,1999
+P07941222015,79,Norco Bicycles,Standard,medium,medium,2015
+P04861222012,48,WeareA2B,Standard,medium,medium,2012
+P03442332012,34,Norco Bicycles,Road,high,large,2012
+P03951231993,39,Giant Bicycles,Standard,medium,large,1993
+P08951232011,89,Giant Bicycles,Standard,medium,large,2011
+P09041122003,90,Norco Bicycles,Standard,low,medium,2003
+P05461222010,54,WeareA2B,Standard,medium,medium,2010
+P02841212010,28,Norco Bicycles,Standard,medium,small,2010
+P00051232004,0,Giant Bicycles,Standard,medium,large,2004
+P05131322011,51,OHM Cycles,Standard,high,medium,2011
+P07941221997,79,Norco Bicycles,Standard,medium,medium,1997
+P02341222005,23,Norco Bicycles,Standard,medium,medium,2005
+P06421231997,64,Trek Bicycles,Standard,medium,large,1997
+P03011322011,30,Solex,Standard,high,medium,2011
+P04611122001,46,Solex,Standard,low,medium,2001
+P09451232002,94,Giant Bicycles,Standard,medium,large,2002
+P10021212010,100,Trek Bicycles,Standard,medium,small,2010
+P01261222010,12,WeareA2B,Standard,medium,medium,2010
+P00012221997,0,Solex,Road,medium,medium,1997
+P02721222002,27,Trek Bicycles,Standard,medium,medium,2002
+P05522231994,55,Trek Bicycles,Road,medium,large,1994
+P06831222016,68,OHM Cycles,Standard,medium,medium,2016
+P01923122004,19,Trek Bicycles,Mountain,low,medium,2004
+P09821321994,98,Trek Bicycles,Standard,high,medium,1994
+P05061212012,50,WeareA2B,Standard,medium,small,2012
+P05331222005,53,OHM Cycles,Standard,medium,medium,2005
+P01121211993,11,Trek Bicycles,Standard,medium,small,1993
+P06421231992,64,Trek Bicycles,Standard,medium,large,1992
+P08751321993,87,Giant Bicycles,Standard,high,medium,1993
+P02942222006,29,Norco Bicycles,Road,medium,medium,2006
+P08841312013,88,Norco Bicycles,Standard,high,small,2013
+P06611222010,66,Solex,Standard,medium,medium,2010
+P01711322013,17,Solex,Standard,high,medium,2013
+P03442331994,34,Norco Bicycles,Road,high,large,1994
+P00061212003,0,WeareA2B,Standard,medium,small,2003
+P03821232005,38,Trek Bicycles,Standard,medium,large,2005
+P00932222004,9,OHM Cycles,Road,medium,medium,2004
+P07851232003,78,Giant Bicycles,Standard,medium,large,2003
+P02261222011,22,WeareA2B,Standard,medium,medium,2011
+P06451312012,64,Giant Bicycles,Standard,high,small,2012
+P06421231995,64,Trek Bicycles,Standard,medium,large,1995
+P01641311996,16,Norco Bicycles,Standard,high,small,1996
+P06421232000,64,Trek Bicycles,Standard,medium,large,2000
+P01421211991,14,Trek Bicycles,Standard,medium,small,1991
+P00042221992,0,Norco Bicycles,Road,medium,medium,1992
+P01811222009,18,Solex,Standard,medium,medium,2009
+P01811222016,18,Solex,Standard,medium,medium,2016
+P05831221994,58,OHM Cycles,Standard,medium,medium,1994
+P00022222003,0,Trek Bicycles,Road,medium,medium,2003
+P07742232003,77,Norco Bicycles,Road,medium,large,2003
+P02721222012,27,Trek Bicycles,Standard,medium,medium,2012
+P06361221992,63,WeareA2B,Standard,medium,medium,1992
+P05522231998,55,Trek Bicycles,Road,medium,large,1998
+P08841221999,88,Norco Bicycles,Standard,medium,medium,1999
+P09651232016,96,Giant Bicycles,Standard,medium,large,2016
+P08841311996,88,Norco Bicycles,Standard,high,small,1996
+P06611222005,66,Solex,Standard,medium,medium,2005
+P08951231999,89,Giant Bicycles,Standard,medium,large,1999
+P07662111991,76,WeareA2B,Road,low,small,1991
+P02021211999,20,Trek Bicycles,Standard,medium,small,1999
+P00011232016,0,Solex,Standard,medium,large,2016
+P09161121997,91,WeareA2B,Standard,low,medium,1997
+P03151221994,31,Giant Bicycles,Standard,medium,medium,1994
+P06131121998,61,OHM Cycles,Standard,low,medium,1998
+P05061211997,50,WeareA2B,Standard,medium,small,1997
+P00031222000,0,OHM Cycles,Standard,medium,medium,2000
+P03251221995,32,Giant Bicycles,Standard,medium,medium,1995
+P00941212016,9,Norco Bicycles,Standard,medium,small,2016
+P07241222006,72,Norco Bicycles,Standard,medium,medium,2006
+P03731121997,37,OHM Cycles,Standard,low,medium,1997
+P00321232015,3,Trek Bicycles,Standard,medium,large,2015
+P09041122004,90,Norco Bicycles,Standard,low,medium,2004
+P04311222006,43,Solex,Standard,medium,medium,2006
+P00041122016,0,Norco Bicycles,Standard,low,medium,2016
+P00941211994,9,Norco Bicycles,Standard,medium,small,1994
+P04112222008,41,Solex,Road,medium,medium,2008
+P00611321995,6,Solex,Standard,high,medium,1995
+P03551222012,35,Giant Bicycles,Standard,medium,medium,2012
+P05461222016,54,WeareA2B,Standard,medium,medium,2016
+P00611322006,6,Solex,Standard,high,medium,2006
+P06311222010,63,Solex,Standard,medium,medium,2010
+P08751322000,87,Giant Bicycles,Standard,high,medium,2000
+P05643112003,56,Norco Bicycles,Mountain,low,small,2003
+P07042221991,70,Norco Bicycles,Road,medium,medium,1991
+P05831222016,58,OHM Cycles,Standard,medium,medium,2016
+P04232212007,42,OHM Cycles,Road,medium,small,2007
+P06831222002,68,OHM Cycles,Standard,medium,medium,2002
+P03161221997,31,WeareA2B,Standard,medium,medium,1997
+P08561222004,85,WeareA2B,Standard,medium,medium,2004
+P01261222003,12,WeareA2B,Standard,medium,medium,2003
+P02812212005,28,Solex,Road,medium,small,2005
+P07311222012,73,Solex,Standard,medium,medium,2012
+P07554232013,75,Giant Bicycles,Touring,medium,large,2013
+P02343112016,23,Norco Bicycles,Mountain,low,small,2016
+P05831222010,58,OHM Cycles,Standard,medium,medium,2010
+P00411222015,4,Solex,Standard,medium,medium,2015
+P00042222015,0,Norco Bicycles,Road,medium,medium,2015
+P04311222015,43,Solex,Standard,medium,medium,2015
+P07241222000,72,Norco Bicycles,Standard,medium,medium,2000
+P00451322007,4,Giant Bicycles,Standard,high,medium,2007
+P04311222012,43,Solex,Standard,medium,medium,2012
+P05643112006,56,Norco Bicycles,Mountain,low,small,2006
+P06051311998,60,Giant Bicycles,Standard,high,small,1998
+P09161122015,91,WeareA2B,Standard,low,medium,2015
+P09041122013,90,Norco Bicycles,Standard,low,medium,2013
+P00012222008,0,Solex,Road,medium,medium,2008
+P01261221993,12,WeareA2B,Standard,medium,medium,1993
+P01261222013,12,WeareA2B,Standard,medium,medium,2013
+P02341221999,23,Norco Bicycles,Standard,medium,medium,1999
+P09261212013,92,WeareA2B,Standard,medium,small,2013
+P08751322005,87,Giant Bicycles,Standard,high,medium,2005
+P06952222003,69,Giant Bicycles,Road,medium,medium,2003
+P07461222015,74,WeareA2B,Standard,medium,medium,2015
+P00551321991,5,Giant Bicycles,Standard,high,medium,1991
+P05911232015,59,Solex,Standard,medium,large,2015
+P05522232011,55,Trek Bicycles,Road,medium,large,2011
+P09264232011,92,WeareA2B,Touring,medium,large,2011
+P03161222003,31,WeareA2B,Standard,medium,medium,2003
+P01064222004,10,WeareA2B,Touring,medium,medium,2004
+P03011321992,30,Solex,Standard,high,medium,1992
+P03551222003,35,Giant Bicycles,Standard,medium,medium,2003
+P02721222006,27,Trek Bicycles,Standard,medium,medium,2006
+P01932331993,19,OHM Cycles,Road,high,large,1993
+P00611322016,6,Solex,Standard,high,medium,2016
+P04911232011,49,Solex,Standard,medium,large,2011
+P06711231993,67,Solex,Standard,medium,large,1993
+P05061212001,50,WeareA2B,Standard,medium,small,2001
+P00941211996,9,Norco Bicycles,Standard,medium,small,1996
+P06611222009,66,Solex,Standard,medium,medium,2009
+P00812212016,8,Solex,Road,medium,small,2016
+P02661222003,26,WeareA2B,Standard,medium,medium,2003
+P02531321997,25,OHM Cycles,Standard,high,medium,1997
+P00523122004,5,Trek Bicycles,Mountain,low,medium,2004
+P07742232004,77,Norco Bicycles,Road,medium,large,2004
+P01923122003,19,Trek Bicycles,Mountain,low,medium,2003
+P00611322011,6,Solex,Standard,high,medium,2011
+P08841222003,88,Norco Bicycles,Standard,medium,medium,2003
+P05232221991,52,OHM Cycles,Road,medium,medium,1991
+P06942232004,69,Norco Bicycles,Road,medium,large,2004
+P00941211995,9,Norco Bicycles,Standard,medium,small,1995
+P05331221991,53,OHM Cycles,Standard,medium,medium,1991
+P02812212004,28,Solex,Road,medium,small,2004
+P06742222010,67,Norco Bicycles,Road,medium,medium,2010
+P00021221997,0,Trek Bicycles,Standard,medium,medium,1997
+P04611122005,46,Solex,Standard,low,medium,2005
+P01641312011,16,Norco Bicycles,Standard,high,small,2011
+P00022221993,0,Trek Bicycles,Road,medium,medium,1993
+P06952222006,69,Giant Bicycles,Road,medium,medium,2006
+P00411222010,4,Solex,Standard,medium,medium,2010
+P01541122011,15,Norco Bicycles,Standard,low,medium,2011
+P04631121993,46,OHM Cycles,Standard,low,medium,1993
+P03811222006,38,Solex,Standard,medium,medium,2006
+P04922222009,49,Trek Bicycles,Road,medium,medium,2009
+P00051221995,0,Giant Bicycles,Standard,medium,medium,1995
+P05331222015,53,OHM Cycles,Standard,medium,medium,2015
+P00321231993,3,Trek Bicycles,Standard,medium,large,1993
+P04311222003,43,Solex,Standard,medium,medium,2003
+P02942221999,29,Norco Bicycles,Road,medium,medium,1999
+P08642332011,86,Norco Bicycles,Road,high,large,2011
+P00211222004,2,Solex,Standard,medium,medium,2004
+P08561221994,85,WeareA2B,Standard,medium,medium,1994
+P03332212007,33,OHM Cycles,Road,medium,small,2007
+P01541122013,15,Norco Bicycles,Standard,low,medium,2013
+P00154232002,1,Giant Bicycles,Touring,medium,large,2002
+P04511222015,45,Solex,Standard,medium,medium,2015
+P06451312010,64,Giant Bicycles,Standard,high,small,2010
+P06742221992,67,Norco Bicycles,Road,medium,medium,1992
+P00061222016,0,WeareA2B,Standard,medium,medium,2016
+P03821232015,38,Trek Bicycles,Standard,medium,large,2015
+P04141122013,41,Norco Bicycles,Standard,low,medium,2013
+P00041122013,0,Norco Bicycles,Standard,low,medium,2013
+P03521121999,35,Trek Bicycles,Standard,low,medium,1999
+P03151221999,31,Giant Bicycles,Standard,medium,medium,1999
+P03731122010,37,OHM Cycles,Standard,low,medium,2010
+P03821231991,38,Trek Bicycles,Standard,medium,large,1991
+P04522122007,45,Trek Bicycles,Road,low,medium,2007
+P01641311993,16,Norco Bicycles,Standard,high,small,1993
+P02021211996,20,Trek Bicycles,Standard,medium,small,1996
+P00151221991,1,Giant Bicycles,Standard,medium,medium,1991
+P08241322004,82,Norco Bicycles,Standard,high,medium,2004
+P05232221993,52,OHM Cycles,Road,medium,medium,1993
+P09041122016,90,Norco Bicycles,Standard,low,medium,2016
+P08841312009,88,Norco Bicycles,Standard,high,small,2009
+P09534121997,95,OHM Cycles,Touring,low,medium,1997
+P06652111992,66,Giant Bicycles,Road,low,small,1992
+P07742231994,77,Norco Bicycles,Road,medium,large,1994
+P02552221997,25,Giant Bicycles,Road,medium,medium,1997
+P08951232007,89,Giant Bicycles,Standard,medium,large,2007
+P03611122003,36,Solex,Standard,low,medium,2003
+P00041221997,0,Norco Bicycles,Standard,medium,medium,1997
+P01311222003,13,Solex,Standard,medium,medium,2003
+P01411332002,14,Solex,Standard,high,large,2002
+P06451312011,64,Giant Bicycles,Standard,high,small,2011
+P05961212002,59,WeareA2B,Standard,medium,small,2002
+P02661222016,26,WeareA2B,Standard,medium,medium,2016
+P03251222006,32,Giant Bicycles,Standard,medium,medium,2006
+P00041222000,0,Norco Bicycles,Standard,medium,medium,2000
+P01311221996,13,Solex,Standard,medium,medium,1996
+P00252112016,2,Giant Bicycles,Road,low,small,2016
+P08731222000,87,OHM Cycles,Standard,medium,medium,2000
+P07554232010,75,Giant Bicycles,Touring,medium,large,2010
+P00011222005,0,Solex,Standard,medium,medium,2005
+P08241321992,82,Norco Bicycles,Standard,high,medium,1992
+P00932222007,9,OHM Cycles,Road,medium,medium,2007
+P04341221991,43,Norco Bicycles,Standard,medium,medium,1991
+P08964232002,89,WeareA2B,Touring,medium,large,2002
+P09922112012,99,Trek Bicycles,Road,low,small,2012
+P05631222011,56,OHM Cycles,Standard,medium,medium,2011
+P03821231997,38,Trek Bicycles,Standard,medium,large,1997
+P07554232011,75,Giant Bicycles,Touring,medium,large,2011
+P05131322015,51,OHM Cycles,Standard,high,medium,2015
+P01411332014,14,Solex,Standard,high,large,2014
+P06421232014,64,Trek Bicycles,Standard,medium,large,2014
+P00021222003,0,Trek Bicycles,Standard,medium,medium,2003
+P03811221999,38,Solex,Standard,medium,medium,1999
+P06611222013,66,Solex,Standard,medium,medium,2013
+P09011121997,90,Solex,Standard,low,medium,1997
+P06742222002,67,Norco Bicycles,Road,medium,medium,2002
+P03442332011,34,Norco Bicycles,Road,high,large,2011
+P04141122010,41,Norco Bicycles,Standard,low,medium,2010
+P03521121997,35,Trek Bicycles,Standard,low,medium,1997
+P05232222011,52,OHM Cycles,Road,medium,medium,2011
+P06952221991,69,Giant Bicycles,Road,medium,medium,1991
+P01811221996,18,Solex,Standard,medium,medium,1996
+P05643112011,56,Norco Bicycles,Mountain,low,small,2011
+P09551232004,95,Giant Bicycles,Standard,medium,large,2004
+P07311221991,73,Solex,Standard,medium,medium,1991
+P10042222014,100,Norco Bicycles,Road,medium,medium,2014
+P02721121997,27,Trek Bicycles,Standard,low,medium,1997
+P07241222014,72,Norco Bicycles,Standard,medium,medium,2014
+P08021231992,80,Trek Bicycles,Standard,medium,large,1992
+P06361222016,63,WeareA2B,Standard,medium,medium,2016
+P01764231999,17,WeareA2B,Touring,medium,large,1999
+P07761222012,77,WeareA2B,Standard,medium,medium,2012
+P01011222000,10,Solex,Standard,medium,medium,2000
+P03161221999,31,WeareA2B,Standard,medium,medium,1999
+P00021221999,0,Trek Bicycles,Standard,medium,medium,1999
+P05051221999,50,Giant Bicycles,Standard,medium,medium,1999
+P02661221991,26,WeareA2B,Standard,medium,medium,1991
+P09111222000,91,Solex,Standard,medium,medium,2000
+P00041222006,0,Norco Bicycles,Standard,medium,medium,2006
+P03011321994,30,Solex,Standard,high,medium,1994
+P01811222005,18,Solex,Standard,medium,medium,2005
+P06742222006,67,Norco Bicycles,Road,medium,medium,2006
+P02942221992,29,Norco Bicycles,Road,medium,medium,1992
+P07761222014,77,WeareA2B,Standard,medium,medium,2014
+P05764231996,57,WeareA2B,Touring,medium,large,1996
+P00011222000,0,Solex,Standard,medium,medium,2000
+P03811222010,38,Solex,Standard,medium,medium,2010
+P05643111991,56,Norco Bicycles,Mountain,low,small,1991
+P06942231991,69,Norco Bicycles,Road,medium,large,1991
+P03821232011,38,Trek Bicycles,Standard,medium,large,2011
+P04031321991,40,OHM Cycles,Standard,high,medium,1991
+P06611221994,66,Solex,Standard,medium,medium,1994
+P00321231992,3,Trek Bicycles,Standard,medium,large,1992
+P02412232002,24,Solex,Road,medium,large,2002
+P06211322015,62,Solex,Standard,high,medium,2015
+P09261212016,92,WeareA2B,Standard,medium,small,2016
+P09551232002,95,Giant Bicycles,Standard,medium,large,2002
+P02164222013,21,WeareA2B,Touring,medium,medium,2013
+P04722112001,47,Trek Bicycles,Road,low,small,2001
+P09041122000,90,Norco Bicycles,Standard,low,medium,2000
+P06311222009,63,Solex,Standard,medium,medium,2009
+P00051222011,0,Giant Bicycles,Standard,medium,medium,2011
+P09662112016,96,WeareA2B,Road,low,small,2016
+P05131321991,51,OHM Cycles,Standard,high,medium,1991
+P00321231998,3,Trek Bicycles,Standard,medium,large,1998
+P09264232009,92,WeareA2B,Touring,medium,large,2009
+P00631322004,6,OHM Cycles,Standard,high,medium,2004
+P05131322007,51,OHM Cycles,Standard,high,medium,2007
+P01411332006,14,Solex,Standard,high,large,2006
+P04722112014,47,Trek Bicycles,Road,low,small,2014
+P06131122010,61,OHM Cycles,Standard,low,medium,2010
+P01311222010,13,Solex,Standard,medium,medium,2010
+P02341221998,23,Norco Bicycles,Standard,medium,medium,1998
+P04631122008,46,OHM Cycles,Standard,low,medium,2008
+P08021232015,80,Trek Bicycles,Standard,medium,large,2015
+P04112222011,41,Solex,Road,medium,medium,2011
+P06131121992,61,OHM Cycles,Standard,low,medium,1992
+P00012222006,0,Solex,Road,medium,medium,2006
+P09161122003,91,WeareA2B,Standard,low,medium,2003
+P01641311992,16,Norco Bicycles,Standard,high,small,1992
+P09451232016,94,Giant Bicycles,Standard,medium,large,2016
+P07914232005,79,Solex,Touring,medium,large,2005
+P00042221999,0,Norco Bicycles,Road,medium,medium,1999
+P04631121997,46,OHM Cycles,Standard,low,medium,1997
+P00551322014,5,Giant Bicycles,Standard,high,medium,2014
+P01311222007,13,Solex,Standard,medium,medium,2007
+P02164222004,21,WeareA2B,Touring,medium,medium,2004
+P00011221992,0,Solex,Standard,medium,medium,1992
+P02661221999,26,WeareA2B,Standard,medium,medium,1999
+P00031322016,0,OHM Cycles,Standard,high,medium,2016
+P00321231997,3,Trek Bicycles,Standard,medium,large,1997
+P00812212007,8,Solex,Road,medium,small,2007
+P00411221995,4,Solex,Standard,medium,medium,1995
+P04232212014,42,OHM Cycles,Road,medium,small,2014
+P09331321993,93,OHM Cycles,Standard,high,medium,1993
+P04112222007,41,Solex,Road,medium,medium,2007
+P04511221997,45,Solex,Standard,medium,medium,1997
+P03351211994,33,Giant Bicycles,Standard,medium,small,1994
+P03551221997,35,Giant Bicycles,Standard,medium,medium,1997
+P08241321997,82,Norco Bicycles,Standard,high,medium,1997
+P00051222010,0,Giant Bicycles,Standard,medium,medium,2010
+P07851232016,78,Giant Bicycles,Standard,medium,large,2016
+P03251221999,32,Giant Bicycles,Standard,medium,medium,1999
+P07941222005,79,Norco Bicycles,Standard,medium,medium,2005
+P00631322011,6,OHM Cycles,Standard,high,medium,2011
+P02412232012,24,Solex,Road,medium,large,2012
+P04031322007,40,OHM Cycles,Standard,high,medium,2007
+P09264231994,92,WeareA2B,Touring,medium,large,1994
+P09261211994,92,WeareA2B,Standard,medium,small,1994
+P07231221998,72,OHM Cycles,Standard,medium,medium,1998
+P01011222003,10,Solex,Standard,medium,medium,2003
+P00042222006,0,Norco Bicycles,Road,medium,medium,2006
+P09711231994,97,Solex,Standard,medium,large,1994
+P04861222003,48,WeareA2B,Standard,medium,medium,2003
+P09011122010,90,Solex,Standard,low,medium,2010
+P01421212009,14,Trek Bicycles,Standard,medium,small,2009
+P04461222008,44,WeareA2B,Standard,medium,medium,2008
+P09534122005,95,OHM Cycles,Touring,low,medium,2005
+P04112222012,41,Solex,Road,medium,medium,2012
+P01923121993,19,Trek Bicycles,Mountain,low,medium,1993
+P00252112015,2,Giant Bicycles,Road,low,small,2015
+P05051222011,50,Giant Bicycles,Standard,medium,medium,2011
+P04461221999,44,WeareA2B,Standard,medium,medium,1999
+P05351321994,53,Giant Bicycles,Standard,high,medium,1994
+P05051222010,50,Giant Bicycles,Standard,medium,medium,2010
+P08631221993,86,OHM Cycles,Standard,medium,medium,1993
+P07111332014,71,Solex,Standard,high,large,2014
+P00021221991,0,Trek Bicycles,Standard,medium,medium,1991
+P07231222010,72,OHM Cycles,Standard,medium,medium,2010
+P06652112002,66,Giant Bicycles,Road,low,small,2002
+P00812212004,8,Solex,Road,medium,small,2004
+P03251321999,32,Giant Bicycles,Standard,high,medium,1999
+P08964231999,89,WeareA2B,Touring,medium,large,1999
+P00932222005,9,OHM Cycles,Road,medium,medium,2005
+P05831221993,58,OHM Cycles,Standard,medium,medium,1993
+P02412231999,24,Solex,Road,medium,large,1999
+P07761222006,77,WeareA2B,Standard,medium,medium,2006
+P05461221993,54,WeareA2B,Standard,medium,medium,1993
+P02341222002,23,Norco Bicycles,Standard,medium,medium,2002
+P03251321993,32,Giant Bicycles,Standard,high,medium,1993
+P01923121997,19,Trek Bicycles,Mountain,low,medium,1997
+P07311221997,73,Solex,Standard,medium,medium,1997
+P04722112012,47,Trek Bicycles,Road,low,small,2012
+P02164222016,21,WeareA2B,Touring,medium,medium,2016
+P08951232008,89,Giant Bicycles,Standard,medium,large,2008
+P07461221999,74,WeareA2B,Standard,medium,medium,1999
+P08561222011,85,WeareA2B,Standard,medium,medium,2011
+P02942221995,29,Norco Bicycles,Road,medium,medium,1995
+P01764232016,17,WeareA2B,Touring,medium,large,2016
+P02211222016,22,Solex,Standard,medium,medium,2016
+P07042222011,70,Norco Bicycles,Road,medium,medium,2011
+P00061221993,0,WeareA2B,Standard,medium,medium,1993
+P08252222006,82,Giant Bicycles,Road,medium,medium,2006
+P00061222011,0,WeareA2B,Standard,medium,medium,2011
+P08314232010,83,Solex,Touring,medium,large,2010
+P03461222003,34,WeareA2B,Standard,medium,medium,2003
+P04611122009,46,Solex,Standard,low,medium,2009
+P07761221993,77,WeareA2B,Standard,medium,medium,1993
+P07662112016,76,WeareA2B,Road,low,small,2016
+P08141212015,81,Norco Bicycles,Standard,medium,small,2015
+P07914232004,79,Solex,Touring,medium,large,2004
+P07661122011,76,WeareA2B,Standard,low,medium,2011
+P03351212006,33,Giant Bicycles,Standard,medium,small,2006
+P06952222011,69,Giant Bicycles,Road,medium,medium,2011
+P04112222014,41,Solex,Road,medium,medium,2014
+P00321232000,3,Trek Bicycles,Standard,medium,large,2000
+P03151222010,31,Giant Bicycles,Standard,medium,medium,2010
+P00011222006,0,Solex,Standard,medium,medium,2006
+P04311222007,43,Solex,Standard,medium,medium,2007
+P06361221999,63,WeareA2B,Standard,medium,medium,1999
+P02531322009,25,OHM Cycles,Standard,high,medium,2009
+P09331322007,93,OHM Cycles,Standard,high,medium,2007
+P01064222003,10,WeareA2B,Touring,medium,medium,2003
+P03821232016,38,Trek Bicycles,Standard,medium,large,2016
+P04722112009,47,Trek Bicycles,Road,low,small,2009
+P01064222016,10,WeareA2B,Touring,medium,medium,2016
+P02552221993,25,Giant Bicycles,Road,medium,medium,1993
+P03251222011,32,Giant Bicycles,Standard,medium,medium,2011
+P00611321999,6,Solex,Standard,high,medium,1999
+P02211222009,22,Solex,Standard,medium,medium,2009
+P06561221995,65,WeareA2B,Standard,medium,medium,1995
+P01711322005,17,Solex,Standard,high,medium,2005
+P00042222002,0,Norco Bicycles,Road,medium,medium,2002
+P00722122016,7,Trek Bicycles,Road,low,medium,2016
+P02942222002,29,Norco Bicycles,Road,medium,medium,2002
+P04611121997,46,Solex,Standard,low,medium,1997
+P06051312015,60,Giant Bicycles,Standard,high,small,2015
+P04232212006,42,OHM Cycles,Road,medium,small,2006
+P08751322003,87,Giant Bicycles,Standard,high,medium,2003
+P01764232005,17,WeareA2B,Touring,medium,large,2005
+P01764232013,17,WeareA2B,Touring,medium,large,2013
+P02841212003,28,Norco Bicycles,Standard,medium,small,2003
+P02552221991,25,Giant Bicycles,Road,medium,medium,1991
+P06952221999,69,Giant Bicycles,Road,medium,medium,1999
+P06051312010,60,Giant Bicycles,Standard,high,small,2010
+P09651231994,96,Giant Bicycles,Standard,medium,large,1994
+P09041122009,90,Norco Bicycles,Standard,low,medium,2009
+P07241222002,72,Norco Bicycles,Standard,medium,medium,2002
+P05212232012,52,Solex,Road,medium,large,2012
+P07941221991,79,Norco Bicycles,Standard,medium,medium,1991
+P08241322005,82,Norco Bicycles,Standard,high,medium,2005
+P01411332011,14,Solex,Standard,high,large,2011
+P02211221993,22,Solex,Standard,medium,medium,1993
+P00061221999,0,WeareA2B,Standard,medium,medium,1999
+P02021212014,20,Trek Bicycles,Standard,medium,small,2014
+P04461222007,44,WeareA2B,Standard,medium,medium,2007
+P00021322011,0,Trek Bicycles,Standard,high,medium,2011
+P05051221992,50,Giant Bicycles,Standard,medium,medium,1992
+P04631122010,46,OHM Cycles,Standard,low,medium,2010
+P08841222013,88,Norco Bicycles,Standard,medium,medium,2013
+P04911232010,49,Solex,Standard,medium,large,2010
+P08751322013,87,Giant Bicycles,Standard,high,medium,2013
+P00941212006,9,Norco Bicycles,Standard,medium,small,2006
+P03011322006,30,Solex,Standard,high,medium,2006
+P01711321995,17,Solex,Standard,high,medium,1995
+P00751211997,7,Giant Bicycles,Standard,medium,small,1997
+P05461222006,54,WeareA2B,Standard,medium,medium,2006
+P00551322004,5,Giant Bicycles,Standard,high,medium,2004
+P01932332010,19,OHM Cycles,Road,high,large,2010
+P07461221995,74,WeareA2B,Standard,medium,medium,1995
+P03461222013,34,WeareA2B,Standard,medium,medium,2013
+P09451231991,94,Giant Bicycles,Standard,medium,large,1991
+P00051221999,0,Giant Bicycles,Standard,medium,medium,1999
+P03332212011,33,OHM Cycles,Road,medium,small,2011
+P05522231997,55,Trek Bicycles,Road,medium,large,1997
+P05232222003,52,OHM Cycles,Road,medium,medium,2003
+P09451231997,94,Giant Bicycles,Standard,medium,large,1997
+P02164221996,21,WeareA2B,Touring,medium,medium,1996
+P06742222003,67,Norco Bicycles,Road,medium,medium,2003
+P00041222014,0,Norco Bicycles,Standard,medium,medium,2014
+P00321232013,3,Trek Bicycles,Standard,medium,large,2013
+P08422221999,84,Trek Bicycles,Road,medium,medium,1999
+P05832222003,58,OHM Cycles,Road,medium,medium,2003
+P01541122010,15,Norco Bicycles,Standard,low,medium,2010
+P00032331996,0,OHM Cycles,Road,high,large,1996
+P09451232007,94,Giant Bicycles,Standard,medium,large,2007
+P08561221998,85,WeareA2B,Standard,medium,medium,1998
+P00031222011,0,OHM Cycles,Standard,medium,medium,2011
+P05831222011,58,OHM Cycles,Standard,medium,medium,2011
+P07461222009,74,WeareA2B,Standard,medium,medium,2009
+P07742232016,77,Norco Bicycles,Road,medium,large,2016
+P03611122010,36,Solex,Standard,low,medium,2010
+P01764232000,17,WeareA2B,Touring,medium,large,2000
+P06652112005,66,Giant Bicycles,Road,low,small,2005
+P05832221993,58,OHM Cycles,Road,medium,medium,1993
+P00321232016,3,Trek Bicycles,Standard,medium,large,2016
+P03332212012,33,OHM Cycles,Road,medium,small,2012
+P02961221991,29,WeareA2B,Standard,medium,medium,1991
+P03731122006,37,OHM Cycles,Standard,low,medium,2006
+P09264231993,92,WeareA2B,Touring,medium,large,1993
+P00031222012,0,OHM Cycles,Standard,medium,medium,2012
+P06131122005,61,OHM Cycles,Standard,low,medium,2005
+P00321232002,3,Trek Bicycles,Standard,medium,large,2002
+P02412232006,24,Solex,Road,medium,large,2006
+P09831221993,98,OHM Cycles,Standard,medium,medium,1993
+P06952222016,69,Giant Bicycles,Road,medium,medium,2016
+P04631121998,46,OHM Cycles,Standard,low,medium,1998
+P03011322002,30,Solex,Standard,high,medium,2002
+P00022222009,0,Trek Bicycles,Road,medium,medium,2009
+P04522122016,45,Trek Bicycles,Road,low,medium,2016
+P04861222004,48,WeareA2B,Standard,medium,medium,2004
+P00011222002,0,Solex,Standard,medium,medium,2002
+P06742222000,67,Norco Bicycles,Road,medium,medium,2000
+P08642331994,86,Norco Bicycles,Road,high,large,1994
+P01151322003,11,Giant Bicycles,Standard,high,medium,2003
+P00042222000,0,Norco Bicycles,Road,medium,medium,2000
+P09011121999,90,Solex,Standard,low,medium,1999
+P06831222015,68,OHM Cycles,Standard,medium,medium,2015
+P03442332006,34,Norco Bicycles,Road,high,large,2006
+P06211322013,62,Solex,Standard,high,medium,2013
+P04522122005,45,Trek Bicycles,Road,low,medium,2005
+P05832222011,58,OHM Cycles,Road,medium,medium,2011
+P02164221994,21,WeareA2B,Touring,medium,medium,1994
+P09161122016,91,WeareA2B,Standard,low,medium,2016
+P02661222006,26,WeareA2B,Standard,medium,medium,2006
+P00151221998,1,Giant Bicycles,Standard,medium,medium,1998
+P09331322014,93,OHM Cycles,Standard,high,medium,2014
+P08731222014,87,OHM Cycles,Standard,medium,medium,2014
+P00211222014,2,Solex,Standard,medium,medium,2014
+P06141212015,61,Norco Bicycles,Standard,medium,small,2015
+P05051222006,50,Giant Bicycles,Standard,medium,medium,2006
+P07231222011,72,OHM Cycles,Standard,medium,medium,2011
+P06361222006,63,WeareA2B,Standard,medium,medium,2006
+P01121212016,11,Trek Bicycles,Standard,medium,small,2016
+P08751321999,87,Giant Bicycles,Standard,high,medium,1999
+P04022231997,40,Trek Bicycles,Road,medium,large,1997
+P02961222004,29,WeareA2B,Standard,medium,medium,2004
+P00042221995,0,Norco Bicycles,Road,medium,medium,1995
+P01151322009,11,Giant Bicycles,Standard,high,medium,2009
+P04232212004,42,OHM Cycles,Road,medium,small,2004
+P04511222007,45,Solex,Standard,medium,medium,2007
+P04911232015,49,Solex,Standard,medium,large,2015
+P07554232015,75,Giant Bicycles,Touring,medium,large,2015
+P08561221991,85,WeareA2B,Standard,medium,medium,1991
+P04311221997,43,Solex,Standard,medium,medium,1997
+P08422221997,84,Trek Bicycles,Road,medium,medium,1997
+P04031321995,40,OHM Cycles,Standard,high,medium,1995
+P00041121999,0,Norco Bicycles,Standard,low,medium,1999
+P03521122006,35,Trek Bicycles,Standard,low,medium,2006
+P02841211993,28,Norco Bicycles,Standard,medium,small,1993
+P05461221997,54,WeareA2B,Standard,medium,medium,1997
+P05832222009,58,OHM Cycles,Road,medium,medium,2009
+P00022221991,0,Trek Bicycles,Road,medium,medium,1991
+P01411332016,14,Solex,Standard,high,large,2016
+P00451322014,4,Giant Bicycles,Standard,high,medium,2014
+P04341222015,43,Norco Bicycles,Standard,medium,medium,2015
+P04922221998,49,Trek Bicycles,Road,medium,medium,1998
+P01641312009,16,Norco Bicycles,Standard,high,small,2009
+P01641311997,16,Norco Bicycles,Standard,high,small,1997
+P03251222007,32,Giant Bicycles,Standard,medium,medium,2007
+P02211222004,22,Solex,Standard,medium,medium,2004
+P01121211999,11,Trek Bicycles,Standard,medium,small,1999
+P07461221991,74,WeareA2B,Standard,medium,medium,1991
+P07461222011,74,WeareA2B,Standard,medium,medium,2011
+P02841211994,28,Norco Bicycles,Standard,medium,small,1994
+P08111222007,81,Solex,Standard,medium,medium,2007
+P09111222016,91,Solex,Standard,medium,medium,2016
+P03551221998,35,Giant Bicycles,Standard,medium,medium,1998
+P08241321993,82,Norco Bicycles,Standard,high,medium,1993
+P00051221994,0,Giant Bicycles,Standard,medium,medium,1994
+P00061211991,0,WeareA2B,Standard,medium,small,1991
+P00031221998,0,OHM Cycles,Standard,medium,medium,1998
+P05461221998,54,WeareA2B,Standard,medium,medium,1998
+P03551222004,35,Giant Bicycles,Standard,medium,medium,2004
+P00523121999,5,Trek Bicycles,Mountain,low,medium,1999
+P03351212014,33,Giant Bicycles,Standard,medium,small,2014
+P07111332002,71,Solex,Standard,high,large,2002
+P00011222015,0,Solex,Standard,medium,medium,2015
+P07661121997,76,WeareA2B,Standard,low,medium,1997
+P07311222003,73,Solex,Standard,medium,medium,2003
+P02841212006,28,Norco Bicycles,Standard,medium,small,2006
+P07241221997,72,Norco Bicycles,Standard,medium,medium,1997
+P01841322004,18,Norco Bicycles,Standard,high,medium,2004
+P07021322003,70,Trek Bicycles,Standard,high,medium,2003
+P08642332012,86,Norco Bicycles,Road,high,large,2012
+P06952221994,69,Giant Bicycles,Road,medium,medium,1994
+P06942232013,69,Norco Bicycles,Road,medium,large,2013
+P00523122014,5,Trek Bicycles,Mountain,low,medium,2014
+P04511222006,45,Solex,Standard,medium,medium,2006
+P00061212001,0,WeareA2B,Standard,medium,small,2001
+P04141121993,41,Norco Bicycles,Standard,low,medium,1993
+P05461221995,54,WeareA2B,Standard,medium,medium,1995
+P01932332011,19,OHM Cycles,Road,high,large,2011
+P09451232009,94,Giant Bicycles,Standard,medium,large,2009
+P04861222009,48,WeareA2B,Standard,medium,medium,2009
+P08141211997,81,Norco Bicycles,Standard,medium,small,1997
+P09261211991,92,WeareA2B,Standard,medium,small,1991
+P04461221993,44,WeareA2B,Standard,medium,medium,1993
+P05764232010,57,WeareA2B,Touring,medium,large,2010
+P01932331996,19,OHM Cycles,Road,high,large,1996
+P00523122016,5,Trek Bicycles,Mountain,low,medium,2016
+P02721122008,27,Trek Bicycles,Standard,low,medium,2008
+P00011222007,0,Solex,Standard,medium,medium,2007
+P00941212003,9,Norco Bicycles,Standard,medium,small,2003
+P01311222009,13,Solex,Standard,medium,medium,2009
+P06131122012,61,OHM Cycles,Standard,low,medium,2012
+P03351211995,33,Giant Bicycles,Standard,medium,small,1995
+P06742221995,67,Norco Bicycles,Road,medium,medium,1995
+P06652112015,66,Giant Bicycles,Road,low,small,2015
+P00011222004,0,Solex,Standard,medium,medium,2004
+P01011222014,10,Solex,Standard,medium,medium,2014
+P01311221999,13,Solex,Standard,medium,medium,1999
+P04911231998,49,Solex,Standard,medium,large,1998
+P01923122007,19,Trek Bicycles,Mountain,low,medium,2007
+P08642332010,86,Norco Bicycles,Road,high,large,2010
+P03251221997,32,Giant Bicycles,Standard,medium,medium,1997
+P07111332013,71,Solex,Standard,high,large,2013
+P02812212003,28,Solex,Road,medium,small,2003
+P03551221991,35,Giant Bicycles,Standard,medium,medium,1991
+P05911231998,59,Solex,Standard,medium,large,1998
+P06611221996,66,Solex,Standard,medium,medium,1996
+P04461222001,44,WeareA2B,Standard,medium,medium,2001
+P04232212012,42,OHM Cycles,Road,medium,small,2012
+P02961221994,29,WeareA2B,Standard,medium,medium,1994
+P01561222003,15,WeareA2B,Standard,medium,medium,2003
+P04031321997,40,OHM Cycles,Standard,high,medium,1997
+P03151222002,31,Giant Bicycles,Standard,medium,medium,2002
+P03251322003,32,Giant Bicycles,Standard,high,medium,2003
+P08021232010,80,Trek Bicycles,Standard,medium,large,2010
+P10021212002,100,Trek Bicycles,Standard,medium,small,2002
+P05351321996,53,Giant Bicycles,Standard,high,medium,1996
+P07661122013,76,WeareA2B,Standard,low,medium,2013
+P07111332016,71,Solex,Standard,high,large,2016
+P00941212002,9,Norco Bicycles,Standard,medium,small,2002
+P02341222011,23,Norco Bicycles,Standard,medium,medium,2011
+P06831222006,68,OHM Cycles,Standard,medium,medium,2006
+P07021322016,70,Trek Bicycles,Standard,high,medium,2016
+P00932222003,9,OHM Cycles,Road,medium,medium,2003
+P06141211997,61,Norco Bicycles,Standard,medium,small,1997
+P03731121993,37,OHM Cycles,Standard,low,medium,1993
+P09161122013,91,WeareA2B,Standard,low,medium,2013
+P01151321994,11,Giant Bicycles,Standard,high,medium,1994
+P02942221994,29,Norco Bicycles,Road,medium,medium,1994
+P08751321994,87,Giant Bicycles,Standard,high,medium,1994
+P04022232015,40,Trek Bicycles,Road,medium,large,2015
+P00154232011,1,Giant Bicycles,Touring,medium,large,2011
+P01121211994,11,Trek Bicycles,Standard,medium,small,1994
+P03461222009,34,WeareA2B,Standard,medium,medium,2009
+P00042222003,0,Norco Bicycles,Road,medium,medium,2003
+P09831222016,98,OHM Cycles,Standard,medium,medium,2016
+P10021211993,100,Trek Bicycles,Standard,medium,small,1993
+P04511221998,45,Solex,Standard,medium,medium,1998
+P00812211994,8,Solex,Road,medium,small,1994
+P03011321995,30,Solex,Standard,high,medium,1995
+P02942221991,29,Norco Bicycles,Road,medium,medium,1991
+P04511222014,45,Solex,Standard,medium,medium,2014
+P00252112005,2,Giant Bicycles,Road,low,small,2005
+P00031322014,0,OHM Cycles,Standard,high,medium,2014
+P07021322011,70,Trek Bicycles,Standard,high,medium,2011
+P00252111995,2,Giant Bicycles,Road,low,small,1995
+P06451311998,64,Giant Bicycles,Standard,high,small,1998
+P01311222001,13,Solex,Standard,medium,medium,2001
+P00041122002,0,Norco Bicycles,Standard,low,medium,2002
+P08841222014,88,Norco Bicycles,Standard,medium,medium,2014
+P00021222002,0,Trek Bicycles,Standard,medium,medium,2002
+P06211222014,62,Solex,Standard,medium,medium,2014
+P08314231998,83,Solex,Touring,medium,large,1998
+P07851231994,78,Giant Bicycles,Standard,medium,large,1994
+P06051311993,60,Giant Bicycles,Standard,high,small,1993
+P00252112011,2,Giant Bicycles,Road,low,small,2011
+P08561221993,85,WeareA2B,Standard,medium,medium,1993
+P00022222001,0,Trek Bicycles,Road,medium,medium,2001
+P03442331997,34,Norco Bicycles,Road,high,large,1997
+P02942222003,29,Norco Bicycles,Road,medium,medium,2003
+P05131322014,51,OHM Cycles,Standard,high,medium,2014
+P02111231999,21,Solex,Standard,medium,large,1999
+P05832222004,58,OHM Cycles,Road,medium,medium,2004
+P00042221991,0,Norco Bicycles,Road,medium,medium,1991
+P08631221998,86,OHM Cycles,Standard,medium,medium,1998
+P08252221992,82,Giant Bicycles,Road,medium,medium,1992
+P00932221992,9,OHM Cycles,Road,medium,medium,1992
+P07661122004,76,WeareA2B,Standard,low,medium,2004
+P00151222013,1,Giant Bicycles,Standard,medium,medium,2013
+P08841311993,88,Norco Bicycles,Standard,high,small,1993
+P07111332004,71,Solex,Standard,high,large,2004
+P09732221996,97,OHM Cycles,Road,medium,medium,1996
+P00041122000,0,Norco Bicycles,Standard,low,medium,2000
+P05911232012,59,Solex,Standard,medium,large,2012
+P04461222014,44,WeareA2B,Standard,medium,medium,2014
+P07662111999,76,WeareA2B,Road,low,small,1999
+P00551322011,5,Giant Bicycles,Standard,high,medium,2011
+P02261221999,22,WeareA2B,Standard,medium,medium,1999
+P00012221991,0,Solex,Road,medium,medium,1991
+P09551231991,95,Giant Bicycles,Standard,medium,large,1991
+P00031222013,0,OHM Cycles,Standard,medium,medium,2013
+P06942232016,69,Norco Bicycles,Road,medium,large,2016
+P05461222011,54,WeareA2B,Standard,medium,medium,2011
+P04511222003,45,Solex,Standard,medium,medium,2003
+P02211221996,22,Solex,Standard,medium,medium,1996
+P03821232010,38,Trek Bicycles,Standard,medium,large,2010
+P00451321994,4,Giant Bicycles,Standard,high,medium,1994
+P05961211993,59,WeareA2B,Standard,medium,small,1993
+P00411222012,4,Solex,Standard,medium,medium,2012
+P01541121994,15,Norco Bicycles,Standard,low,medium,1994
+P05212232002,52,Solex,Road,medium,large,2002
+P01011222011,10,Solex,Standard,medium,medium,2011
+P02343112012,23,Norco Bicycles,Mountain,low,small,2012
+P00011222013,0,Solex,Standard,medium,medium,2013
+P03611122005,36,Solex,Standard,low,medium,2005
+P08111221993,81,Solex,Standard,medium,medium,1993
+P01932332016,19,OHM Cycles,Road,high,large,2016
+P00011222010,0,Solex,Standard,medium,medium,2010
+P09451232014,94,Giant Bicycles,Standard,medium,large,2014
+P09534121991,95,OHM Cycles,Touring,low,medium,1991
+P09922112003,99,Trek Bicycles,Road,low,small,2003
+P06742222016,67,Norco Bicycles,Road,medium,medium,2016
+P10042222011,100,Norco Bicycles,Road,medium,medium,2011
+P00411222003,4,Solex,Standard,medium,medium,2003
+P00154232013,1,Giant Bicycles,Touring,medium,large,2013
+P06051312001,60,Giant Bicycles,Standard,high,small,2001
+P00061212015,0,WeareA2B,Standard,medium,small,2015
+P01011222004,10,Solex,Standard,medium,medium,2004
+P03821232006,38,Trek Bicycles,Standard,medium,large,2006
+P07461221994,74,WeareA2B,Standard,medium,medium,1994
+P06211322011,62,Solex,Standard,high,medium,2011
+P02661222004,26,WeareA2B,Standard,medium,medium,2004
+P04022231991,40,Trek Bicycles,Road,medium,large,1991
+P06742222015,67,Norco Bicycles,Road,medium,medium,2015
+P04631122011,46,OHM Cycles,Standard,low,medium,2011
+P05351322003,53,Giant Bicycles,Standard,high,medium,2003
+P02111231994,21,Solex,Standard,medium,large,1994
+P01641312010,16,Norco Bicycles,Standard,high,small,2010
+P07941222009,79,Norco Bicycles,Standard,medium,medium,2009
+P04022231998,40,Trek Bicycles,Road,medium,large,1998
+P07761222003,77,WeareA2B,Standard,medium,medium,2003
+P04861222011,48,WeareA2B,Standard,medium,medium,2011
+P05232222009,52,OHM Cycles,Road,medium,medium,2009
+P03461222016,34,WeareA2B,Standard,medium,medium,2016
+P01421211996,14,Trek Bicycles,Standard,medium,small,1996
+P08452222011,84,Giant Bicycles,Road,medium,medium,2011
+P01121211996,11,Trek Bicycles,Standard,medium,small,1996
+P03611122001,36,Solex,Standard,low,medium,2001
+P08314232011,83,Solex,Touring,medium,large,2011
+P00041222004,0,Norco Bicycles,Standard,medium,medium,2004
+P03821232002,38,Trek Bicycles,Standard,medium,large,2002
+P06361222003,63,WeareA2B,Standard,medium,medium,2003
+P01261222015,12,WeareA2B,Standard,medium,medium,2015
+P10021211996,100,Trek Bicycles,Standard,medium,small,1996
+P02552222013,25,Giant Bicycles,Road,medium,medium,2013
+P05643111999,56,Norco Bicycles,Mountain,low,small,1999
+P08642331995,86,Norco Bicycles,Road,high,large,1995
+P02211222011,22,Solex,Standard,medium,medium,2011
+P03332211993,33,OHM Cycles,Road,medium,small,1993
+P01411332000,14,Solex,Standard,high,large,2000
+P09662111999,96,WeareA2B,Road,low,small,1999
+P04611122014,46,Solex,Standard,low,medium,2014
+P01561222015,15,WeareA2B,Standard,medium,medium,2015
+P06742221991,67,Norco Bicycles,Road,medium,medium,1991
+P04112221993,41,Solex,Road,medium,medium,1993
+P03461222005,34,WeareA2B,Standard,medium,medium,2005
+P00751212006,7,Giant Bicycles,Standard,medium,small,2006
+P05351322016,53,Giant Bicycles,Standard,high,medium,2016
+P08452221995,84,Giant Bicycles,Road,medium,medium,1995
+P03332211999,33,OHM Cycles,Road,medium,small,1999
+P08241322014,82,Norco Bicycles,Standard,high,medium,2014
+P07111332000,71,Solex,Standard,high,large,2000
+P00012222011,0,Solex,Road,medium,medium,2011
+P04922221993,49,Trek Bicycles,Road,medium,medium,1993
+P08314231991,83,Solex,Touring,medium,large,1991
+P00154232010,1,Giant Bicycles,Touring,medium,large,2010
+P01811222010,18,Solex,Standard,medium,medium,2010
+P00011231994,0,Solex,Standard,medium,large,1994
+P00051232016,0,Giant Bicycles,Standard,medium,large,2016
+P01251232013,12,Giant Bicycles,Standard,medium,large,2013
+P02721122011,27,Trek Bicycles,Standard,low,medium,2011
+P02812212007,28,Solex,Road,medium,small,2007
+P04722111994,47,Trek Bicycles,Road,low,small,1994
+P07021321995,70,Trek Bicycles,Standard,high,medium,1995
+P01421211994,14,Trek Bicycles,Standard,medium,small,1994
+P02164222007,21,WeareA2B,Touring,medium,medium,2007
+P09011122008,90,Solex,Standard,low,medium,2008
+P02961222003,29,WeareA2B,Standard,medium,medium,2003
+P00011231991,0,Solex,Standard,medium,large,1991
+P02211222010,22,Solex,Standard,medium,medium,2010
+P02661222002,26,WeareA2B,Standard,medium,medium,2002
+P07914231998,79,Solex,Touring,medium,large,1998
+P04141122009,41,Norco Bicycles,Standard,low,medium,2009
+P02812211994,28,Solex,Road,medium,small,1994
+P03611122009,36,Solex,Standard,low,medium,2009
+P00041222002,0,Norco Bicycles,Standard,medium,medium,2002
+P00021322000,0,Trek Bicycles,Standard,high,medium,2000
+P02412232005,24,Solex,Road,medium,large,2005
+P09651232002,96,Giant Bicycles,Standard,medium,large,2002
+P01121211991,11,Trek Bicycles,Standard,medium,small,1991
+P05961211998,59,WeareA2B,Standard,medium,small,1998
+P00021222016,0,Trek Bicycles,Standard,medium,medium,2016
+P05911232005,59,Solex,Standard,medium,large,2005
+P04861222005,48,WeareA2B,Standard,medium,medium,2005
+P00011221994,0,Solex,Standard,medium,medium,1994
+P06952222000,69,Giant Bicycles,Road,medium,medium,2000
+P01561221997,15,WeareA2B,Standard,medium,medium,1997
+P01923122014,19,Trek Bicycles,Mountain,low,medium,2014
+P03811221991,38,Solex,Standard,medium,medium,1991
+P04631122005,46,OHM Cycles,Standard,low,medium,2005
+P08422221998,84,Trek Bicycles,Road,medium,medium,1998
+P00022221998,0,Trek Bicycles,Road,medium,medium,1998
+P06451311993,64,Giant Bicycles,Standard,high,small,1993
+P04611122006,46,Solex,Standard,low,medium,2006
+P01311221993,13,Solex,Standard,medium,medium,1993
+P07941222016,79,Norco Bicycles,Standard,medium,medium,2016
+P00011221991,0,Solex,Standard,medium,medium,1991
+P09331322011,93,OHM Cycles,Standard,high,medium,2011
+P00011221997,0,Solex,Standard,medium,medium,1997
+P01151322005,11,Giant Bicycles,Standard,high,medium,2005
+P02841211996,28,Norco Bicycles,Standard,medium,small,1996
+P00051222003,0,Giant Bicycles,Standard,medium,medium,2003
+P03521121992,35,Trek Bicycles,Standard,low,medium,1992
+P00031122010,0,OHM Cycles,Standard,low,medium,2010
+P00012221999,0,Solex,Road,medium,medium,1999
+P04141121994,41,Norco Bicycles,Standard,low,medium,1994
+P03332212014,33,OHM Cycles,Road,medium,small,2014
+P07021321994,70,Trek Bicycles,Standard,high,medium,1994
+P10021211994,100,Trek Bicycles,Standard,medium,small,1994
+P09732222004,97,OHM Cycles,Road,medium,medium,2004
+P03821232004,38,Trek Bicycles,Standard,medium,large,2004
+P00611322003,6,Solex,Standard,high,medium,2003
+P05331221992,53,OHM Cycles,Standard,medium,medium,1992
+P05232222004,52,OHM Cycles,Road,medium,medium,2004
+P01764232002,17,WeareA2B,Touring,medium,large,2002
+P01151322004,11,Giant Bicycles,Standard,high,medium,2004
+P04631122015,46,OHM Cycles,Standard,low,medium,2015
+P07761222001,77,WeareA2B,Standard,medium,medium,2001
+P00551321997,5,Giant Bicycles,Standard,high,medium,1997
+P05061211991,50,WeareA2B,Standard,medium,small,1991
+P00751212007,7,Giant Bicycles,Standard,medium,small,2007
+P02341222004,23,Norco Bicycles,Standard,medium,medium,2004
+P02961222013,29,WeareA2B,Standard,medium,medium,2013
+P01011221997,10,Solex,Standard,medium,medium,1997
+P00932221996,9,OHM Cycles,Road,medium,medium,1996
+P08111222011,81,Solex,Standard,medium,medium,2011
+P07662112004,76,WeareA2B,Road,low,small,2004
+P08731222015,87,OHM Cycles,Standard,medium,medium,2015
+P00041122003,0,Norco Bicycles,Standard,low,medium,2003
+P05961212004,59,WeareA2B,Standard,medium,small,2004
+P08314231996,83,Solex,Touring,medium,large,1996
+P01841321997,18,Norco Bicycles,Standard,high,medium,1997
+P06831222014,68,OHM Cycles,Standard,medium,medium,2014
+P03251321998,32,Giant Bicycles,Standard,high,medium,1998
+P00012222015,0,Solex,Road,medium,medium,2015
+P00032331999,0,OHM Cycles,Road,high,large,1999
+P05832222015,58,OHM Cycles,Road,medium,medium,2015
+P01251231997,12,Giant Bicycles,Standard,medium,large,1997
+P00154231997,1,Giant Bicycles,Touring,medium,large,1997
+P01764232003,17,WeareA2B,Touring,medium,large,2003
+P02531322011,25,OHM Cycles,Standard,high,medium,2011
+P00722122015,7,Trek Bicycles,Road,low,medium,2015
+P08731221995,87,OHM Cycles,Standard,medium,medium,1995
+P09831222009,98,OHM Cycles,Standard,medium,medium,2009
+P02961222002,29,WeareA2B,Standard,medium,medium,2002
+P02841212002,28,Norco Bicycles,Standard,medium,small,2002
+P01841322000,18,Norco Bicycles,Standard,high,medium,2000
+P02111231995,21,Solex,Standard,medium,large,1995
+P06141212004,61,Norco Bicycles,Standard,medium,small,2004
+P08111222014,81,Solex,Standard,medium,medium,2014
+P00041122004,0,Norco Bicycles,Standard,low,medium,2004
+P03611122014,36,Solex,Standard,low,medium,2014
+P01561221991,15,WeareA2B,Standard,medium,medium,1991
+P08021231995,80,Trek Bicycles,Standard,medium,large,1995
+P00031122012,0,OHM Cycles,Standard,low,medium,2012
+P09331321999,93,OHM Cycles,Standard,high,medium,1999
+P00022222005,0,Trek Bicycles,Road,medium,medium,2005
+P06311222012,63,Solex,Standard,medium,medium,2012
+P05131322003,51,OHM Cycles,Standard,high,medium,2003
+P07914232016,79,Solex,Touring,medium,large,2016
+P07021322006,70,Trek Bicycles,Standard,high,medium,2006
+P07461222012,74,WeareA2B,Standard,medium,medium,2012
+P02341221993,23,Norco Bicycles,Standard,medium,medium,1993
+P00021221992,0,Trek Bicycles,Standard,medium,medium,1992
+P02341222013,23,Norco Bicycles,Standard,medium,medium,2013
+P04522122003,45,Trek Bicycles,Road,low,medium,2003
+P06831222003,68,OHM Cycles,Standard,medium,medium,2003
+P08631221997,86,OHM Cycles,Standard,medium,medium,1997
+P07914232015,79,Solex,Touring,medium,large,2015
+P05522232007,55,Trek Bicycles,Road,medium,large,2007
+P03161222002,31,WeareA2B,Standard,medium,medium,2002
+P01411332004,14,Solex,Standard,high,large,2004
+P09662112010,96,WeareA2B,Road,low,small,2010
+P09662111995,96,WeareA2B,Road,low,small,1995
+P00021321994,0,Trek Bicycles,Standard,high,medium,1994
+P05961211994,59,WeareA2B,Standard,medium,small,1994
+P07851232000,78,Giant Bicycles,Standard,medium,large,2000
+P04722111996,47,Trek Bicycles,Road,low,small,1996
+P08731221992,87,OHM Cycles,Standard,medium,medium,1992
+P00021322002,0,Trek Bicycles,Standard,high,medium,2002
+P00011222016,0,Solex,Standard,medium,medium,2016
+P06211322010,62,Solex,Standard,high,medium,2010
+P03351212012,33,Giant Bicycles,Standard,medium,small,2012
+P06831222009,68,OHM Cycles,Standard,medium,medium,2009
+P03332212006,33,OHM Cycles,Road,medium,small,2006
+P05351322011,53,Giant Bicycles,Standard,high,medium,2011
+P04112222006,41,Solex,Road,medium,medium,2006
+P02721222016,27,Trek Bicycles,Standard,medium,medium,2016
+P03031221991,30,OHM Cycles,Standard,medium,medium,1991
+P04311221991,43,Solex,Standard,medium,medium,1991
+P03551222005,35,Giant Bicycles,Standard,medium,medium,2005
+P01841321992,18,Norco Bicycles,Standard,high,medium,1992
+P05131322006,51,OHM Cycles,Standard,high,medium,2006
+P09651231991,96,Giant Bicycles,Standard,medium,large,1991
+P01421212016,14,Trek Bicycles,Standard,medium,small,2016
+P05232222013,52,OHM Cycles,Road,medium,medium,2013
+P00154231995,1,Giant Bicycles,Touring,medium,large,1995
+P09922112014,99,Trek Bicycles,Road,low,small,2014
+P01311222015,13,Solex,Standard,medium,medium,2015
+P03821232013,38,Trek Bicycles,Standard,medium,large,2013
+P06611221993,66,Solex,Standard,medium,medium,1993
+P05522232005,55,Trek Bicycles,Road,medium,large,2005
+P06421232003,64,Trek Bicycles,Standard,medium,large,2003
+P00031221999,0,OHM Cycles,Standard,medium,medium,1999
+P00611321992,6,Solex,Standard,high,medium,1992
+P00041222011,0,Norco Bicycles,Standard,medium,medium,2011
+P09451232012,94,Giant Bicycles,Standard,medium,large,2012
+P08561222008,85,WeareA2B,Standard,medium,medium,2008
+P09111222002,91,Solex,Standard,medium,medium,2002
+P03332211997,33,OHM Cycles,Road,medium,small,1997
+P00321231995,3,Trek Bicycles,Standard,medium,large,1995
+P09732222005,97,OHM Cycles,Road,medium,medium,2005
+P09264232012,92,WeareA2B,Touring,medium,large,2012
+P09264231998,92,WeareA2B,Touring,medium,large,1998
+P06211222003,62,Solex,Standard,medium,medium,2003
+P02412232015,24,Solex,Road,medium,large,2015
+P07914231991,79,Solex,Touring,medium,large,1991
+P02531321991,25,OHM Cycles,Standard,high,medium,1991
+P00411222004,4,Solex,Standard,medium,medium,2004
+P06211322000,62,Solex,Standard,high,medium,2000
+P03461221994,34,WeareA2B,Standard,medium,medium,1994
+P01811221998,18,Solex,Standard,medium,medium,1998
+P05764232013,57,WeareA2B,Touring,medium,large,2013
+P08841312006,88,Norco Bicycles,Standard,high,small,2006
+P03011322000,30,Solex,Standard,high,medium,2000
+P09161121991,91,WeareA2B,Standard,low,medium,1991
+P01421212005,14,Trek Bicycles,Standard,medium,small,2005
+P05961212013,59,WeareA2B,Standard,medium,small,2013
+P08241322016,82,Norco Bicycles,Standard,high,medium,2016
+P05051222003,50,Giant Bicycles,Standard,medium,medium,2003
+P01841321993,18,Norco Bicycles,Standard,high,medium,1993
+P04232212015,42,OHM Cycles,Road,medium,small,2015
+P07021322002,70,Trek Bicycles,Standard,high,medium,2002
+P01251232003,12,Giant Bicycles,Standard,medium,large,2003
+P03011322014,30,Solex,Standard,high,medium,2014
+P05522232014,55,Trek Bicycles,Road,medium,large,2014
+P01251231991,12,Giant Bicycles,Standard,medium,large,1991
+P03821231995,38,Trek Bicycles,Standard,medium,large,1995
+P02552222015,25,Giant Bicycles,Road,medium,medium,2015
+P09451232001,94,Giant Bicycles,Standard,medium,large,2001
+P07461222016,74,WeareA2B,Standard,medium,medium,2016
+P09331322008,93,OHM Cycles,Standard,high,medium,2008
+P08561222014,85,WeareA2B,Standard,medium,medium,2014
+P08252222004,82,Giant Bicycles,Road,medium,medium,2004
+P08841312011,88,Norco Bicycles,Standard,high,small,2011
+P09831222011,98,OHM Cycles,Standard,medium,medium,2011
+P10021212009,100,Trek Bicycles,Standard,medium,small,2009
+P03351212007,33,Giant Bicycles,Standard,medium,small,2007
+P03821232008,38,Trek Bicycles,Standard,medium,large,2008
+P03611122004,36,Solex,Standard,low,medium,2004
+P00061212012,0,WeareA2B,Standard,medium,small,2012
+P01311221991,13,Solex,Standard,medium,medium,1991
+P06361222004,63,WeareA2B,Standard,medium,medium,2004
+P01121212014,11,Trek Bicycles,Standard,medium,small,2014
+P07914231993,79,Solex,Touring,medium,large,1993
+P09551231995,95,Giant Bicycles,Standard,medium,large,1995
+P00031121992,0,OHM Cycles,Standard,low,medium,1992
+P00051222002,0,Giant Bicycles,Standard,medium,medium,2002
+P05461221999,54,WeareA2B,Standard,medium,medium,1999
+P09011122006,90,Solex,Standard,low,medium,2006
+P08452222002,84,Giant Bicycles,Road,medium,medium,2002
+P06652112000,66,Giant Bicycles,Road,low,small,2000
+P08252222015,82,Giant Bicycles,Road,medium,medium,2015
+P03161222005,31,WeareA2B,Standard,medium,medium,2005
+P04722112010,47,Trek Bicycles,Road,low,small,2010
+P09551231999,95,Giant Bicycles,Standard,medium,large,1999
+P03461222010,34,WeareA2B,Standard,medium,medium,2010
+P00812212013,8,Solex,Road,medium,small,2013
+P09831221991,98,OHM Cycles,Standard,medium,medium,1991
+P05961212000,59,WeareA2B,Standard,medium,small,2000
+P04522122014,45,Trek Bicycles,Road,low,medium,2014
+P02021212007,20,Trek Bicycles,Standard,medium,small,2007
+P00021321999,0,Trek Bicycles,Standard,high,medium,1999
+P05331222010,53,OHM Cycles,Standard,medium,medium,2010
+P02841212013,28,Norco Bicycles,Standard,medium,small,2013
+P00751211999,7,Giant Bicycles,Standard,medium,small,1999
+P01011222006,10,Solex,Standard,medium,medium,2006
+P01764231994,17,WeareA2B,Touring,medium,large,1994
+P05351321999,53,Giant Bicycles,Standard,high,medium,1999
+P09041121993,90,Norco Bicycles,Standard,low,medium,1993
+P04522121991,45,Trek Bicycles,Road,low,medium,1991
+P09451232003,94,Giant Bicycles,Standard,medium,large,2003
+P03821231993,38,Trek Bicycles,Standard,medium,large,1993
+P05351322013,53,Giant Bicycles,Standard,high,medium,2013
+P05351321991,53,Giant Bicycles,Standard,high,medium,1991
+P07914231999,79,Solex,Touring,medium,large,1999
+P08021232016,80,Trek Bicycles,Standard,medium,large,2016
+P02721122006,27,Trek Bicycles,Standard,low,medium,2006
+P09331321995,93,OHM Cycles,Standard,high,medium,1995
+P00551322007,5,Giant Bicycles,Standard,high,medium,2007
+P02721222001,27,Trek Bicycles,Standard,medium,medium,2001
+P02812211991,28,Solex,Road,medium,small,1991
+P08841222004,88,Norco Bicycles,Standard,medium,medium,2004
+P05832221991,58,OHM Cycles,Road,medium,medium,1991
+P01711321992,17,Solex,Standard,high,medium,1992
+P03521122003,35,Trek Bicycles,Standard,low,medium,2003
+P03821231999,38,Trek Bicycles,Standard,medium,large,1999
+P09041122010,90,Norco Bicycles,Standard,low,medium,2010
+P02412231992,24,Solex,Road,medium,large,1992
+P03161222004,31,WeareA2B,Standard,medium,medium,2004
+P05331222002,53,OHM Cycles,Standard,medium,medium,2002
+P09922112013,99,Trek Bicycles,Road,low,small,2013
+P00041122009,0,Norco Bicycles,Standard,low,medium,2009
+P04911232012,49,Solex,Standard,medium,large,2012
+P01151321991,11,Giant Bicycles,Standard,high,medium,1991
+P08111222003,81,Solex,Standard,medium,medium,2003
+P00041222003,0,Norco Bicycles,Standard,medium,medium,2003
+P00411222016,4,Solex,Standard,medium,medium,2016
+P01561221993,15,WeareA2B,Standard,medium,medium,1993
+P04631122006,46,OHM Cycles,Standard,low,medium,2006
+P00611322014,6,Solex,Standard,high,medium,2014
+P02721121995,27,Trek Bicycles,Standard,low,medium,1995
+P10042222004,100,Norco Bicycles,Road,medium,medium,2004
+P05764232009,57,WeareA2B,Touring,medium,large,2009
+P03161222006,31,WeareA2B,Standard,medium,medium,2006
+P04022232011,40,Trek Bicycles,Road,medium,large,2011
+P00031121993,0,OHM Cycles,Standard,low,medium,1993
+P03521122002,35,Trek Bicycles,Standard,low,medium,2002
+P06211222005,62,Solex,Standard,medium,medium,2005
+P08241322002,82,Norco Bicycles,Standard,high,medium,2002
+P10042222003,100,Norco Bicycles,Road,medium,medium,2003
+P06561221991,65,WeareA2B,Standard,medium,medium,1991
+P00411221992,4,Solex,Standard,medium,medium,1992
+P02812212013,28,Solex,Road,medium,small,2013
+P06421232011,64,Trek Bicycles,Standard,medium,large,2011
+P01121212011,11,Trek Bicycles,Standard,medium,small,2011
+P00021221994,0,Trek Bicycles,Standard,medium,medium,1994
+P05961212016,59,WeareA2B,Standard,medium,small,2016
+P07231222012,72,OHM Cycles,Standard,medium,medium,2012
+P09264232010,92,WeareA2B,Touring,medium,large,2010
+P00051232010,0,Giant Bicycles,Standard,medium,large,2010
+P00022222011,0,Trek Bicycles,Road,medium,medium,2011
+P00154232004,1,Giant Bicycles,Touring,medium,large,2004
+P06141211993,61,Norco Bicycles,Standard,medium,small,1993
+P00611322002,6,Solex,Standard,high,medium,2002
+P01811222015,18,Solex,Standard,medium,medium,2015
+P06942232003,69,Norco Bicycles,Road,medium,large,2003
+P04112222016,41,Solex,Road,medium,medium,2016
+P06311221996,63,Solex,Standard,medium,medium,1996
+P05522232004,55,Trek Bicycles,Road,medium,large,2004
+P05831222003,58,OHM Cycles,Standard,medium,medium,2003
+P02412232010,24,Solex,Road,medium,large,2010
+P02343112001,23,Norco Bicycles,Mountain,low,small,2001
+P09732221998,97,OHM Cycles,Road,medium,medium,1998
+P00031121998,0,OHM Cycles,Standard,low,medium,1998
+P02531322001,25,OHM Cycles,Standard,high,medium,2001
+P01011221991,10,Solex,Standard,medium,medium,1991
+P02343111997,23,Norco Bicycles,Mountain,low,small,1997
+P01421212002,14,Trek Bicycles,Standard,medium,small,2002
+P05331222016,53,OHM Cycles,Standard,medium,medium,2016
+P03811222009,38,Solex,Standard,medium,medium,2009
+P06831221993,68,OHM Cycles,Standard,medium,medium,1993
+P00051231994,0,Giant Bicycles,Standard,medium,large,1994
+P07554232002,75,Giant Bicycles,Touring,medium,large,2002
+P02721221997,27,Trek Bicycles,Standard,medium,medium,1997
+P08034122005,80,OHM Cycles,Touring,low,medium,2005
+P04911232006,49,Solex,Standard,medium,large,2006
+P09361221996,93,WeareA2B,Standard,medium,medium,1996
+P00032221992,0,OHM Cycles,Road,medium,medium,1992
+P00041121993,0,Norco Bicycles,Standard,low,medium,1993
+P02021212003,20,Trek Bicycles,Standard,medium,small,2003
+P06952222002,69,Giant Bicycles,Road,medium,medium,2002
+P00021322014,0,Trek Bicycles,Standard,high,medium,2014
+P07662111995,76,WeareA2B,Road,low,small,1995
+P06421232004,64,Trek Bicycles,Standard,medium,large,2004
+P05351322005,53,Giant Bicycles,Standard,high,medium,2005
+P03461221993,34,WeareA2B,Standard,medium,medium,1993
+P09662111997,96,WeareA2B,Road,low,small,1997
+P08561222006,85,WeareA2B,Standard,medium,medium,2006
+P00012222014,0,Solex,Road,medium,medium,2014
+P00932222012,9,OHM Cycles,Road,medium,medium,2012
+P09732222003,97,OHM Cycles,Road,medium,medium,2003
+P00252112002,2,Giant Bicycles,Road,low,small,2002
+P05232221998,52,OHM Cycles,Road,medium,medium,1998
+P03731122005,37,OHM Cycles,Standard,low,medium,2005
+P10021212013,100,Trek Bicycles,Standard,medium,small,2013
+P05051222014,50,Giant Bicycles,Standard,medium,medium,2014
+P07554231992,75,Giant Bicycles,Touring,medium,large,1992
+P00154232014,1,Giant Bicycles,Touring,medium,large,2014
+P04922222015,49,Trek Bicycles,Road,medium,medium,2015
+P09534122003,95,OHM Cycles,Touring,low,medium,2003
+P02341222014,23,Norco Bicycles,Standard,medium,medium,2014
+P02021212013,20,Trek Bicycles,Standard,medium,small,2013
+P02812211993,28,Solex,Road,medium,small,1993
+P01421212004,14,Trek Bicycles,Standard,medium,small,2004
+P08751322009,87,Giant Bicycles,Standard,high,medium,2009
+P02111232006,21,Solex,Standard,medium,large,2006
+P00011222001,0,Solex,Standard,medium,medium,2001
+P08642332008,86,Norco Bicycles,Road,high,large,2008
+P05331222006,53,OHM Cycles,Standard,medium,medium,2006
+P05212231999,52,Solex,Road,medium,large,1999
+P07662112010,76,WeareA2B,Road,low,small,2010
+P01541122016,15,Norco Bicycles,Standard,low,medium,2016
+P10021212005,100,Trek Bicycles,Standard,medium,small,2005
+P09831222005,98,OHM Cycles,Standard,medium,medium,2005
+P03351211993,33,Giant Bicycles,Standard,medium,small,1993
+P09831222000,98,OHM Cycles,Standard,medium,medium,2000
+P01311222012,13,Solex,Standard,medium,medium,2012
