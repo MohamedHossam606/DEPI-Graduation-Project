@@ -1,11 +1,10 @@
 import streamlit as st
 import pandas as pd
-import requests
 from streamlit_lottie import st_lottie
 
-All_Customers_df = pd.read_csv("Notebooks/Preprocessing Notebooks/Final Sheets/All_Customers.csv")
-All_Customers_Address_df = pd.read_csv("Notebooks/Preprocessing Notebooks/Final Sheets/All_Customers_Address.csv")
-Transactions_df = pd.read_csv("Notebooks/Preprocessing Notebooks/Final Sheets/Transactions.csv")
+All_Customers_df = pd.read_csv("Notebooks/1_Preprocessing Notebooks/Final Sheets/customer_details.csv")
+products_df = pd.read_csv("Notebooks/1_Preprocessing Notebooks/Final Sheets/products_details.csv")
+Transactions_df = pd.read_csv("Notebooks/1_Preprocessing Notebooks/Final Sheets/transactions_details.csv")
 
 st.set_page_config(page_title="Home Page", initial_sidebar_state='expanded')
 
@@ -37,10 +36,6 @@ with tab1:
                     'The length of time (in years) the customer has been associated with store.']})
     st.dataframe(Customers_Sheets)
 
-    with st.expander("Show Customers Sample Data"):
-        st.dataframe(All_Customers_df.sample(10),use_container_width=True)
-        st.write(f"###### Customers Dataframe Shape = **{All_Customers_df.shape}**")
-
     st.markdown('''     
     #### **Customer Address:**
     * Provides the geographical information for each customer, including address, state, and postal code, which can be useful for regional analysis and customer distribution.
@@ -57,9 +52,9 @@ with tab1:
                     'A numeric value representing the property valuation rating (possibly on a scale of 1-12).']})
     st.dataframe(Customers_Address_Sheet)
 
-    with st.expander("Show Customers Address Sample Data"):
-        st.dataframe(All_Customers_Address_df.sample(10),use_container_width=True)
-        st.write(f"###### Customers Address Dataframe Shape = **{All_Customers_Address_df.shape}**")
+    with st.expander("Show Customers Sample Data"):
+        st.dataframe(All_Customers_df.sample(10),use_container_width=True)
+        st.write(f"###### Customers Dataframe Shape = **{All_Customers_df.shape}**")
 
     st.markdown('''     
     #### **Transactions:**
@@ -89,6 +84,10 @@ with tab1:
     with st.expander("Show Transactions Sample Data"):
         st.dataframe(Transactions_df.sample(10),use_container_width=True)
         st.write(f"###### Transactions Dataframe Shape = **{Transactions_df.shape}**")
+
+    with st.expander("Show Products Sample Data"):
+        st.dataframe(products_df.sample(10),use_container_width=True)
+        st.write(f"###### Customers Address Dataframe Shape = **{products_df.shape}**")
 
 with tab2:
     st.markdown('''
@@ -168,7 +167,8 @@ st.write('## **Dashboard**')
 images = [
     "pages/assets/Main/Dashboard/Bickes Store Visualization_page-0002.jpg",
     "pages/assets/Main/Dashboard/Bickes Store Visualization_page-0003.jpg",
-    "pages/assets/Main/Dashboard/Bickes Store Visualization_page-0004.jpg"
+    "pages/assets/Main/Dashboard/Bickes Store Visualization_page-0004.jpg",
+    "pages/assets/Main/Dashboard/Bickes Store Visualization_page-0005.jpg"
 ]
 
 # Custom CSS for modern button styles
@@ -252,19 +252,6 @@ st.markdown(f"""
     <a href="https://app.powerbi.com/links/sgzZ23FXw_?ctid=878ae732-59c5-40e3-8d49-91e7988bccfd&pbi_source=linkShare" target="_blank" class="hover-div">
         <h4 style="color: white;">View Dashboard</h4>
     </a>""", unsafe_allow_html=True)
-
-# Load the Lottie animation from the URL
-# def load_lottieurl(url: str):
-#     r = requests.get(url)
-#     if r.status_code != 200:
-#         return None
-#     return r.json()
-
-# animation = load_lottieurl('https://lottie.host/af744217-f85d-455c-8dd5-0c8bd672c6a8/CajIat0YS0.json')
-# if animation is not None:
-#     st_lottie(animation, speed=0.80, quality='high',  height=200)
-# else:
-#     st.error("Animation failed to load.")
 
 st.divider()
 
