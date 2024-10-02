@@ -167,7 +167,7 @@ with tab2:
             text-align: center; /* Center the text */
         }}
     </style>
-    <a href="https://github.com/MohamedHossam606/DEPI-Graduation-Project/blob/main/Notebooks/RFM%20Segment%20%26%20LTV.ipynb" target="_blank" class="hover-div">
+    <a href="https://github.com/MohamedHossam606/DEPI-Graduation-Project/blob/main/Notebooks/2_RFM%20Segment%20%26%20LTV/RFM%20Segment%20%26%20LTV.ipynb" target="_blank" class="hover-div">
         <h4 style="color: white;">View Full Code Notebook</h4>
     </a>""", unsafe_allow_html=True)
     st.divider()
