@@ -157,7 +157,7 @@ with tab2:
             text-align: center; /* Center the text */
         }}
     </style>
-    <a href="https://github.com/MohamedHossam606/DEPI-Graduation-Project/tree/main/Notebooks/Preprocessing%20Notebooks" target="_blank" class="hover-div">
+    <a href="https://github.com/MohamedHossam606/DEPI-Graduation-Project/tree/main/Notebooks/1_Preprocessing%20Notebooks" target="_blank" class="hover-div">
         <h4 style="color: white;">View Full Data Preparation Notebooks</h4>
     </a>""", unsafe_allow_html=True)
 st.divider()
