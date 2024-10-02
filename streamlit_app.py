@@ -10,7 +10,7 @@ st.set_page_config(page_title="Home Page", initial_sidebar_state='expanded')
 
 st.image("pages/assets/Main/DEPI-Graduation-Project.jpg")
 
-tab1,tab2 = st.tabs(["About Dataset", "Data Preparation"])
+tab1,tab2 = st.tabs(["Dataset Overview", "Data Preparation"])
 with tab1:
     st.markdown('''
     ##### The dataset provides information on bike store transactions for the year 2017 in Australia. The dataset contains the followin tables
