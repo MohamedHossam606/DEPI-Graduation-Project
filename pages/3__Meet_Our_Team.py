@@ -9,7 +9,7 @@ col1, col2 = st.columns([3, 1])
 with col1:
     st.title('🌟 Meet Our Team')
 with col2:
-    st.image("pages/assets/3_Meet_Our_Team/Team work-amico.png", use_column_width=True)
+    st.image("pages/assets/3_Meet_Our_Team/Team work-amico.png", use_container_width=True)
 st.divider()
 
 # LinkedIn icon URL
