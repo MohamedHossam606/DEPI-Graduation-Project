@@ -9,7 +9,7 @@ col1, col2 = st.columns([3, 1])
 with col1:
     st.title('RFM Analysis Dashboard')
 with col2:
-    st.image("pages/assets/1_RFM Analysis/Segmentation-cuate.png", use_column_width=True)
+    st.image("pages/assets/1_RFM Analysis/Segmentation-cuate.png", use_container_width=True)
 
 df = pd.read_csv("Notebooks/2_RFM Segment & LTV/RFM Segment & LTV.csv")
 
